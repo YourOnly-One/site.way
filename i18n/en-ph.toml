@@ -1,169 +1,62 @@
-# Translations for Philippine English
-# https://gohugo.io/content-management/multilingual/#translation-of-strings
-
 [toggleMenu]
-  other = "Toggle Menu"
+other = "Toggle Menu"
 
 [darkMode]
-  other = "Dark Mode"
+other = "Dark Mode"
 
-[list]
-  [list.page]
-    one = "{{ .Count }} page"
-    other = "{{ .Count }} pages"
-  [list.section]
-    other = "Section"
-  [list.subsection]
-    one = "Subsection"
-    other = "Subsections"
+[list.page]
+one = "1 page"
+other = "{{ .Count }} pages"
 
-[article]
-  [article.back]
-    other = "Back"
-  [article.tableOfContents]
-    other = "Table of Contents"
-  [article.relatedContents]
-    other = "Related contents"
-  [article.lastUpdatedOn]
-    other = "Last updated on"
-  [article.readingTime]
-    one = "1 minute read"
-    other = "{{ .Count }} minutes read"
+[list.section]
+other = "Section"
 
-[notFound]
-  [notFound.title]
-    other = "Not Found"
-  [notFound.subtitle]
-    other = "This page does not exist."
+[list.subsection]
+one = "Subsection"
+other = "Subsections"
 
-[widget]
-  [widget.archives]
-    [widget.archives.title]
-      other = "Archives"
-    [widget.archives.more]
-      other = "More"
-  [widget.tagCloud]
-    [widget.tagCloud.title]
-      other = "Tags"
+[article.back]
+other = "Back"
 
-[search]
-  [search.title]
-    other = "Search"
-  [search.placeholder]
-    other = "Type something…"
-  [search.resultTitle]
-    other = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+[article.tableOfContents]
+other = "Table of contents"
 
-[footer]
-  [footer.builtWith]
-    other = "Built with {{ .Generator }}"
-  [footer.designedBy]
-    other = "Theme {{ .Theme }} designed by {{ .DesignedBy }}"
+[article.relatedContents]
+other = "Related contents"
 
+[article.lastUpdatedOn]
+other = "Last updated on"
 
-# Yuki
-[allChannels]
-  other = "All Channels"
-[channel]
-  one = "1 channel"
-  other = "{{ .Count }} channels"
-[allSeries]
-  other = "All Series"
-[series]
-  one = "1 series"
-  other = "{{ .Count }} series"
-[allPosts]
-  other = "All Posts"
-[post]
-  one = "1 post"
-  other = "{{ .Count }} posts"
+[article.readingTime]
+one = "1 minute read"
+other = "{{ .Count }} minutes read"
 
-## Yuki: Copyleft
-[copyleft]
-  other = "Copyleft"
-[BestViewedInBGN]
-  other = "Best viewed in"
-[BestViewedInEND]
-  other = "browsers."
-[about]
-  other = "About Us"
-[terms]
-  other = "Terms of Service"
-[privacy]
-  other = "Privacy Policy"
-[legal]
-  other = "Legal Notice"
-[disclosure]
-  other = "Disclosure"
-[contact]
-  other = "Contact Us"
-[ContentOnBGN]
-  other = "Content on"
-[ContentOnEND]
-  other = "unless otherwise specified."
-[PermissionsBeyondScope]
-  other = "Permissions beyond the scope of this license may be available at"
-[FreeHostingBy]
-  other = "Free 250 GB hosting by"
-[GeckoBased]
-  other = " Gecko-based"
-[GoannaBased]
-  other = " Goanna-based"
+[notFound.title]
+other = "Not Found"
 
-## Yuki: Global
-[home]
-  other = "Home"
-[translations]
-	other = "Translations"
-[postAvailable]
-	other = "Also available in"
-[featuredposts]
-	other = "Featured Posts"
-[recentposts]
-	other = "Recent Posts"
+[notFound.subtitle]
+other = "This page does not exist"
 
-## Yuki: layouts/partials/footer.html
-[poweredby]
-	other = "Powered by"
-[themeby]
-	other = "Theme by"
+[widget.archives.title]
+other = "Archives"
 
-## Yuki: punctuations
-[punctuation_fullstop]
-  other = "."
-[punctuation_pause]
-  other = ","
+[widget.archives.more]
+other = "More"
 
-## Yuki: words
-[word_is]
-  other = "is"
-[word_has]
-  other = "has"
-[word_to]
-  other = "to"
-[word_coverimage]
-  other = "・ Cover image:"
-[word_countryname]
-  other = "the Philippines"
+[widget.tagCloud.title]
+other = "Tags"
 
-## Yuki: attribution and license
-[attribution_by]
-  other = "by"
-[attribution_licensedunder]
-  other = "licensed under"
-[attribution_cc0_extent]
-  other = "To the extent possible under law"
-[attribution_cc0_waived]
-  other = "waived all copyright and related or neighbouring rights"
-[attribution_cc0_publishedfrom]
-  other = "This work is published from"
-[attribution_publicdomain]
-  other = "free of known copyright restrictions"
-[attribution_allrightsreserved]
-  other = "This image and/or the work shown in the screengrab is Copyrighted"
-[attribution_allrightsreservedcover]
-  other = "The cover image used in this article is Copyrighted"
-[attribution_ccbysa4]
-  other = "Creative Commons Attribution-ShareAlike 4.0 International"
-[quote_src]
-  other = ","             # add a space before if using a word
+[search.title]
+other = "Search"
+
+[search.placeholder]
+other = "Type something..."
+
+[search.resultTitle]
+other = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+
+[footer.builtWith]
+other = "Built with {{ .Generator }}"
+
+[footer.designedBy]
+other = "Theme {{ .Theme }} designed by {{ .DesignedBy }}"

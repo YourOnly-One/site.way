@@ -1,169 +1,62 @@
-# Translations for Hangugeo (Korean)
-# https://gohugo.io/content-management/multilingual/#translation-of-strings
-
 [toggleMenu]
-  other = "메뉴 여닫기"
+other = "메뉴 여닫기"
 
 [darkMode]
-  other = "Dark Mode"
+other = "다크 모드"
 
-[list]
-  [list.page]
-    one = "{{ .Count }} page"
-    other = "{{ .Count }} pages"
-  [list.section]
-    other = "Section"
-  [list.subsection]
-    one = "Subsection"
-    other = "Subsections"
+[list.page]
+one = "1페이지"
+other = "{{ .Count }}페이지"
 
-[article]
-  [article.back]
-    other = "Back"
-  [article.tableOfContents]
-    other = "Table of Contents"
-  [article.relatedContents]
-    other = "관련 글"
-  [article.lastUpdatedOn]
-    other = "마지막 수정: "
-  [article.readingTime]
-    one = "1 분 읽기"
-    other = "{{ .Count }} 분 읽기"
+[list.section]
+other = "부분"
 
-[notFound]
-  [notFound.title]
-    other = "찾을 수 없음"
-  [notFound.subtitle]
-    other = "페이지를 찾을 수 없습니다."
+[list.subsection]
+one = "일부"
+other = "일부"
 
-[widget]
-  [widget.archives]
-    [widget.archives.title]
-      other = "보관함"
-    [widget.archives.more]
-      other = "더보기"
-  [widget.tagCloud]
-    [widget.tagCloud.title]
-      other = "태그"
+[article.back]
+other = "뒤"
 
-[search]
-  [search.title]
-    other = "검색"
-  [search.placeholder]
-    other = "검색어를 입력하세요…"
-  [search.resultTitle]
-    other = "#PAGES_COUNT 페이지 (#TIME_SECONDS 초)"
+[article.tableOfContents]
+other = "목차"
 
-[footer]
-  [footer.builtWith]
-    other = "{{ .Generator }}로 만듦"
-  [footer.designedBy]
-    other = "{{ .DesignedBy }}의 {{ .Theme }} 테마 사용 중"
+[article.relatedContents]
+other = "관련 글"
 
+[article.lastUpdatedOn]
+other = "마지막 수정: "
 
-# Yuki
-[allChannels]
-  other = "모든 채널"
-[channel]
-  one = "1 채널"
-  other = "{{ .Count }} 채널"
-[allSeries]
-  other = "모든 시리즈"
-[series]
-  one = "1 시리즈"
-  other = "{{ .Count }} 시리즈"
-[allPosts]
-  other = "모든 게시물"
-[post]
-  one = "게시물 1 개"
-  other = "{{ .Count }} 게시물"
+[article.readingTime]
+one = "1분 읽기"
+other = "{{ .Count }}분 읽기"
 
-## Yuki: Copyleft
-[copyleft]
-  other = "카피 레프트"
-[BestViewedInBGN]
-  other = "베스트 뷰"
-[BestViewedInEND]
-  other = "브라우저."
-[about]
-  other = "나에 대해서"
-[terms]
-  other = "서비스 약관"
-[privacy]
-  other = "개인 정보 정책"
-[legal]
-  other = "법적 고지"
-[disclosure]
-  other = "폭로"
-[contact]
-  other = "문의하기"
-[ContentOnBGN]
-  other = "내용"
-[ContentOnEND]
-  other = "별도의 규정이없는."
-[PermissionsBeyondScope]
-  other = "이 라이선스의 범위를 벗어난 권한은 다음에서 사용할 수 있습니다"
-[FreeHostingBy]
-  other = "무료 250 GB 호스팅"
-[GeckoBased]
-  other = "Gecko 기반"
-[GoannaBased]
-  other = "Goanna 기반"
+[notFound.title]
+other = "찾을 수 없음"
 
-## Yuki: Global
-[home]
-  other = "집"
-[translations]
-  other = "번역"
-[postAvailable]
-  other = "또한 사용 가능"
-[featuredposts]
-  other = "주요 게시물"
-[recentposts]
-  other = "최근 게시물"
+[notFound.subtitle]
+other = "페이지를 찾을 수 없습니다."
 
-## Yuki: layouts/partials/footer.html
-[poweredby]
-  other = "에 의해 구동"
-[themeby]
-  other = "테마별"
+[widget.archives.title]
+other = "보관함"
 
-## Yuki: punctuations
-[punctuation_fullstop]
-  other = "."
-[punctuation_pause]
-  other = ","
+[widget.archives.more]
+other = "더보기"
 
-## Yuki: words
-[word_is]
-  other = "이다"
-[word_has]
-  other = "있다"
-[word_to]
-  other = "에"
-[word_coverimage]
-  other = "・ 표지 이미지 :"
-[word_countryname]
-  other = "필리핀"
+[widget.tagCloud.title]
+other = "태그"
 
-## Yuki: attribution and license
-[attribution_by]
-  other = "으로"
-[attribution_licensedunder]
-  other = "라이센스"
-[attribution_cc0_extent]
-  other = "법에 따라 가능한 한"
-[attribution_cc0_waived]
-  other = "모든 저작권 및 관련 또는 이웃 권리를 포기했습니다"
-[attribution_cc0_publishedfrom]
-  other = "이 작품은"
-[attribution_publicdomain]
-  other = "알려진 저작권 제한 없음"
-[attribution_allrightsreserved]
-  other = "이 이미지 및 / 또는 스크린 샷에 표시된 저작물은 저작권으로 보호됩니다"
-[attribution_allrightsreservedcover]
-  other = "이 기사에 사용 된 표지 이미지는 저작권으로 보호됩니다"
-[attribution_ccbysa4]
-  other = "크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 라이선스"
-[quote_src]
-  other = ","             # add a space before if using a word
+[search.title]
+other = "검색"
+
+[search.placeholder]
+other = "검색어를 입력하세요..."
+
+[search.resultTitle]
+other = "#PAGES_COUNT 페이지 (#TIME_SECONDS 초)"
+
+[footer.builtWith]
+other = "{{ .Generator }}로 만듦"
+
+[footer.designedBy]
+other = "{{ .DesignedBy }}의 {{ .Theme }} 테마 사용 중"

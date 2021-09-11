@@ -1,0 +1,253 @@
+### Info: https://gohugo.io/content-management/multilingual/#configure-languages
+
+#[en]
+  #languageName = "English"
+  #languageFlag = "🇬🇧"
+  #languageCodeHTML = "en"
+  #languageCodeCountry = "DO_NOT_USE"
+  #timeZone = "Etc/UTC"
+  #weight = 110
+  #[en.params]
+  #[[en.menu.main]]
+    #identifier = "about"
+    #name = "About"
+    #url = "/about/"
+  #[[en.menu.main]]
+    #identifier = "posts"
+    #name = "Posts"
+    #url = "/posts/"
+
+[en-ph]
+  languageName = "EN-PH"
+  languageFlag = "🇵🇭"
+  languageCodeHTML = "en-PH"
+  languageCodeCountry = "ph"
+  timeZone = "Asia/Manila"
+  weight = 111
+  #[en-ph.params]
+  #[[en-ph.menu.main]]
+    #name              = "Home"
+    #identifier        = "home"
+    #url               = "/"
+    #pre               = "<i class='fa fa-home'></i>"
+    #weight            = 1
+  #[[en-ph.menu.main]]
+    #name              = "About"
+    #identifier        = "about"
+    #url               = "/about/"
+    #pre               = "<i class='far fa-id-card'></i>"
+    #weight            = 2
+  #[[en-ph.menu.main]]
+    #name              = "Posts"
+    #identifier        = "posts"
+    #url               = "/posts/"
+    #pre               = "<i class='far fa-newspaper'></i>"
+    #weight            = 3
+  #[[en-ph.menu.main]]
+    #name              = "Categories"
+    #identifier        = "categories"
+    #url               = "/categories/"
+    #pre               = "<i class='fas fa-sitemap'></i>"
+    #weight            = 5
+  #[[en-ph.menu.main]]
+    #name              = "Tags"
+    #identifier        = "tags"
+    #url               = "/tags/"
+    #pre               = "<i class='fas fa-tags'></i>"
+    #weight            = 6
+  #[[en-ph.menu.main]]
+    #name              = "Contact"
+    #identifier        = "contact"
+    #url               = "/contact/"
+    #pre               = "<i class='far fa-envelope'></i>"
+    #eight            = 7
+  #[[en-ph.menu.main]]
+    #name              = "YourOnly.One™"
+    #identifier        = "yoo-home"
+    #url               = "https://im.youronly.one"
+    #pre               = "<i class='fa fa-home'></i>"
+    #weight            = 8
+
+#[fil]
+  #languageName = "Filipino"
+  #languageFlag = "🇵🇭"
+  #languageCodeHTML = "fil"
+  #languageCodeCountry = "ph"
+  #timeZone = "Asia/Manila"
+  #title = "Yelosan Publishing"
+  #subtitle  = "Mabuhay!"
+  #weight = 120
+  #[fil.params]
+    #homeSubtitle = "Mabuhay!"
+    #[fil.params.logo]
+      #logoText = "Filipino"
+    #[fil.params.copyleft]
+      #ContentOn = "Ang nilalaman ng"
+      #SiteTitle = "Yelosan Publishing"
+      #UnlessOtherwise = ", maliban kung may ibang nakasaad."
+  #[[fil.menu.main]]
+    #identifier = "about"
+    #name = "Tungkol"
+    #url = "/tungkol/"
+  #[[fil.menu.main]]
+    #identifier = "posts"
+    #name = "Mga Post"
+    #url = "/mga-post/"
+
+#[tl-tglg]
+  #languageName = "Tagalog Baybayin"
+  #languageFlag = "🇵🇭"
+  #languageCodeHTML = "tl-Tglg"
+  #languageCodeCountry = "ph"
+  #timeZone = "Asia/Manila"
+  #title = "ᜌᜒᜎᜓᜐᜈ᜔ Publishing"
+  #subtitle  = "ᜋᜊᜓᜑᜌ᜔᜶"
+  #weight = 121
+  #[tl-tglg.params]
+    #author = "ᜌᜒᜎᜓᜐᜈ᜔ Publishing"
+    #homeSubtitle = "ᜋᜊᜓᜑᜌ᜔᜶"
+    #[tl-tglg.params.logo]
+      #logoText = "ᜊᜌᜊᜌᜒᜈ᜔ ᜆᜄᜎᜓᜄ᜔"
+    #[tl-tglg.params.copyleft]
+      #ContentOn = "ᜀᜅ᜔ ᜈᜒᜎᜎᜋᜈ᜔ ᜈᜅ᜔"
+      #SiteTitle = "ᜌᜒᜎᜓᜐᜈ᜔ Publishing"
+      #UnlessOtherwise = "᜵ ᜋᜎᜒᜊᜈ᜔ ᜃᜓᜅ᜔ ᜋᜌ᜔ ᜁᜊᜅ᜔ ᜈᜃᜐᜀᜇ᜔᜶"
+    #[tl-tglg.params.name]
+      #yahuhanan = "ᜌᜑᜓᜑᜈᜈ᜔"
+      #yukia = "ᜌᜓᜃᜒᜀ"
+      #sese = "ᜐᜒᜐᜒ"
+      #cuneta = "ᜃᜓᜈᜒᜆ"
+  #[tl-tglg.author]
+    #name = "ᜌᜒᜎᜓᜐᜈ᜔ Publishing"
+  #[[tl-tglg.menu.main]]
+    #identifier = "about"
+    #name = "ᜆᜓᜅ᜔ᜃᜓᜎ᜔"
+    #url = "/ᜆᜓᜅ᜔ᜃᜓᜎ᜔/"
+  #[[tl-tglg.menu.main]]
+    #identifier = "posts"
+    #name = "ᜋᜅ Post"
+    #url = "/ᜋᜅ-post/"
+
+#[zh-hant]
+  #languageName = "中文（繁體）"
+  #languageFlag = "🇨🇳"
+  #languageCodeHTML = "zh-Hant"
+  #languageCodeCountry = "cn"
+  #timeZone = "Asia/Shanghai"
+  #weight = 130
+
+#[zh-hans]
+  #languageName = "中文（简体）"
+  #languageFlag = "🇨🇳"
+  #languageCodeHTML = "zh-Hans"
+  #languageCodeCountry = "cn"
+  #timeZone = "Asia/Shanghai"
+  #weight = 131
+
+[ja]
+  languageName = "日本語"
+  languageFlag = "🇯🇵"
+  languageCodeHTML = "ja"
+  languageCodeCountry = "jp"
+  timeZone = "Asia/Tokyo"
+  weight = 140
+  title = "YOOkiクロニクル"
+  [ja.params]
+    description = "Yahuhanan Yukia Sese Cunetaの年代記 / ᜌᜓᜃᜒ (Yuki ・ 雪亮)."     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
+    motto = "これが忘却の終わりではないなら、私は自分の人生がまさにこの日に終わるかのように毎日生きるでしょう。"
+  #[[ja.menu.main]]
+    #name              = "ホーム"
+    #identifier        = "home"
+    #url               = "/"
+    #pre               = "<i class='fa fa-home'></i>"
+    #weight            = 1
+  #[[ja.menu.main]]
+    #name              = "私について"
+    #identifier        = "about"
+    #url               = "/about/"
+    #pre               = "<i class='far fa-id-card'></i>"
+    #weight            = 2
+  #[[ja.menu.main]]
+    #name              = "ブログ投稿"
+    #identifier        = "posts"
+    #url               = "/posts/"
+    #pre               = "<i class='far fa-newspaper'></i>"
+    #weight            = 3
+  #[[ja.menu.main]]
+    #name              = "カテゴリ"
+    #identifier        = "categories"
+    #url               = "/categories/"
+    #pre               = "<i class='fas fa-sitemap'></i>"
+    #weight            = 5
+  #[[ja.menu.main]]
+    #name              = "タグ"
+    #identifier        = "tags"
+    #url               = "/tags/"
+    #pre               = "<i class='fas fa-tags'></i>"
+    #weight            = 6
+  #[[ja.menu.main]]
+    #name              = "私に連絡して"
+    #identifier        = "contact"
+    #url               = "/contact/"
+    #pre               = "<i class='far fa-envelope'></i>"
+    #weight            = 7
+  #[[ja.menu.main]]
+    #name              = "YourOnly.One™"
+    #identifier        = "yoo-home"
+    #url               = "https://im.youronly.one/yuki/ja"
+    #pre               = "<i class='fa fa-home'></i>"
+    #weight            = 8
+
+[ko]
+  languageName = "한국어"
+  languageFlag = "🇰🇷"
+  languageCodeHTML = "ko"
+  languageCodeCountry = "kr"
+  timeZone = "Asia/Seoul"
+  weight = 150
+  title = "YOOki 연대기"
+  [ko.params]
+    description = "Yahuhanan Yukia Sese Cuneta의 연대기 / ᜌᜓᜃᜒ (Yuki ・ 雪亮)."      # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
+    motto = "이것이 망각의 끝이 아니라면 내 인생이 바로 오늘 끝날 듯 매일 살 것이다."
+  #[[ko.menu.main]]
+    #name              = "집"
+    #identifier        = "home"
+    #url               = "/"
+    #pre               = "<i class='fa fa-home'></i>"
+    #weight            = 1
+  #[[ko.menu.main]]
+    #name              = "나에 대해서"
+    #identifier        = "about"
+    #url               = "/about/"
+    #pre               = "<i class='far fa-id-card'></i>"
+    #weight            = 2
+  #[[ko.menu.main]]
+    #name              = "게시물"
+    #identifier        = "posts"
+    #url               = "/posts/"
+    #pre               = "<i class='far fa-newspaper'></i>"
+    #weight            = 3
+  #[[ko.menu.main]]
+    #name              = "카테고리"
+    #identifier        = "categories"
+    #url               = "/categories/"
+    #pre               = "<i class='fas fa-sitemap'></i>"
+    #weight            = 5
+  #[[ko.menu.main]]
+    #name              = "태그"
+    #identifier        = "tags"
+    #url               = "/tags/"
+    #pre               = "<i class='fas fa-tags'></i>"
+    #weight            = 6
+  #[[ko.menu.main]]
+    #name              = "문의하기"
+    #identifier        = "contact"
+    #url               = "/contact/"
+    #pre               = "<i class='far fa-envelope'></i>"
+    #weight            = 7
+  #[[ko.menu.main]]
+    #name              = "YourOnly.One™"
+    #identifier        = "yoo-home"
+    #url               = "https://im.youronly.one/yuki/ko"
+    #pre               = "<i class='fa fa-home'></i>"
+    #weight            = 8

@@ -1,0 +1,133 @@
+#mainSections = ["blog", "c"]
+
+googleTagManager = "GTM-KT65GHZ"
+subdir = "yoo"
+rssfull = "true"
+faviconcache = "fmgy"
+faviconbuster = "TimmieIsMyFate"
+jquerycdn = true
+
+### BGN: Structured Data ###
+  siteStartYear = 2021
+
+  description = "The chronicles of ᜌᜓᜃᜒ (Yuki ・ 雪亮) / Yahuhanan Yukia Sese Cuneta."
+  license = "https://im.youronly.one/p/legal-notice/"
+  #issn = ""
+  #awards = [""]
+  images = ["https://rsc.youronly.one/img/y/YOOki_Chronicles.webp"]
+
+  name = "YourOnly.One" # your company name
+  primaryauthor = "ᜌᜓᜃᜒ (Yuki ・ 雪亮)" # Used as primary author if no specific is set
+  ownerhomepage = "https://youronly.one"
+  alternatenames = [ "JC John Sese Cuneta", "Yuki"]
+  gender = "https://schema.org/Male"
+  knowslanguages = ["en-PH", "fil", "tl-Tglg"]
+  nationality = "Filipino"
+
+  copyright = ""
+  copyrightnotice = "JC John Sese Cuneta"
+  copyrightyear = "2021"      # same as datePublished
+
+  logourl = "https://rsc.youronly.one/img/y/YOOki_Chronicles.webp" # Used in structured data as logo url
+  keywords = ["YourOnly.One", "Yuki", "ᜌᜓᜃᜒ", "Chronicles"] # Can be overriden per page
+  imageurl = "https://rsc.youronly.one/img/y/YOOki_Chronicles.webp" # Used in structured data as background image
+
+  contact = "" # Primary email address
+  phone = "" # Primary phone
+  primarylocation = "" # Used as primary location if no specific is set
+
+  color = "#000000"
+  pricerange = "" # Used in structured data as price range
+### END: Structured Data ###
+
+### BGN: Theme settings
+  background = "#EBF6F7"
+  backgroundImage = "https://rsc.youronly.one/img/assets/vintage-933793_1920.jpg"
+  linkColor = "blue"
+
+  # dark mode
+  defaultDark = true
+  backgroundDark = "#202124"
+  backgroundImageDark = "https://rsc.youronly.one/img/assets/abstract-1780252_1280.png"
+  darkLinkColor = "gold"
+  darkNav = true
+  dark404 = true
+
+  avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+  headerTitle = "ᜌᜓᜃᜒ (Yuki ・ 雪亮)"
+  motto = "If this is not the end of oblivion, then I shall live everyday as if my life were to end this very day."
+
+  #maxTags = 5
+  #footerBottomText = ""
+  rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  #email = ""
+  twitter = "YourOnlyOne7"
+  facebook = "YourOnly.One0"
+  instagram = "YourOnly.One"
+  #mastodon = "https://mastodon.social/@youronlyone" # Icon no longer showing
+  linkedin = "youronlyone"
+  #github = ""
+  #stackoverflow = ""
+  #codepen = ""
+
+  #favicon = "/favicon.ico"
+
+  highlightjs = true
+  highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+
+  # options
+  showSummaryCoverInPost = true
+  hasTwitterEmbed = true
+  reversePostAndAside = true
+  shareInAside = false
+  showInAside = true  # This is our own custom setting
+  fixedNav = true
+  collapsibleTags = true
+  collapseBySummary = false
+
+  #[params.advanced]
+  #  customCSS = ["css/custom.css"]
+  #  customJSBefore = []
+  #  customJS = []
+
+  #[params.experimental]
+  #  jsDate = true
+  #  jsDateFormat = "yyyy年MM月dd日"
+
+### END: Theme settings
+
+### BGN: Other Settings ###
+  [author]                                                    # .Param "author.key"
+    name = "ᜌᜓᜃᜒ (Yuki ・ 雪亮)"
+    email = ""
+    homepage = "https://youronly.one"
+    avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+    rel = "me noopener"
+    #rel = "noopener external nofollow"
+
+  [siteowner]
+    given_name = "Yahuhanan Yukia"
+    middle_name = "Sese"
+    family_name = "Cuneta"
+
+  [semweb.publisher]
+    name = "YourOnly.One"
+    sameas = "https://youronly.one"
+
+  [verify]
+    naver = "0212955cb24d6e2c67f92be3c7833cae8a98fa8e"
+    wot = "06c7ef6e7986586661ef"
+### END: Other Settings ###

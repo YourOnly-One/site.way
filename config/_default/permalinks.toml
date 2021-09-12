@@ -3,8 +3,10 @@
 
 blog = "/:slug-:year:yearday/"
 categories = "/cat/:slug/"
+pages = "/:slug/"
+posts = "/:slug-:year:yearday/"
 series = "/series/:slug/"
 tags = "/tag/:slug/"
-channels = "/channels/:slug/"
 
+channels = "/channels/:slug/"
 c = "/:sections/:slug-:year:yearday/"

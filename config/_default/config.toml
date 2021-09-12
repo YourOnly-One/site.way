@@ -29,7 +29,7 @@
   refLinksNotFoundURL = "https://im.youronly.one/way/"
 
   ## Dev settings ##
-    publishDir = "../../live/public/yuki"
+    publishDir = "../../live/public/way"
     enableMissingTranslationPlaceholders = true
 
   ## Other settings ##

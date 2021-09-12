@@ -41,7 +41,6 @@ jquerycdn = false
 ### END: Structured Data ###
 
 ### BGN: Theme Settings ###
-  mainSections = ["blog", "c"]
   featuredImageField = "cover"
   rssFullContent = true
   #favicon = ""
@@ -83,10 +82,14 @@ jquerycdn = false
 
   [widgets]
     #enabled = ["search", "archives", "tag-cloud"]
-    enabled = ["search", "tag-cloud"]
-    [widgets.archives]
-      limit = "5"
+    enabled = ["search", "series-cloud", "cat-cloud", "tag-cloud"]
+    #[widgets.archives]
+      #limit = "5"
       #path = "/archives"
+    [widgets.seriesCloud]
+      limit = "10"
+    [widgets.catCloud]
+      limit = "10"
     [widgets.tagCloud]
       limit = "10"
 

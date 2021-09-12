@@ -15,14 +15,14 @@
   languageCodeCountry = "ph"
   timeZone = "Asia/Manila"
   weight = 111
-  [[en-ph.menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = "/"
-    pre               = "home"
-    weight            = 1
-    [en-ph.menu.main.params]
-      newTab = false
+  #[[en-ph.menu.main]]
+    #name              = "Home"
+    #identifier        = "home"
+    #url               = "/"
+    #pre               = "home"
+    #weight            = 1
+    #[en-ph.menu.main.params]
+      #newTab = false
 
 #[fil]
   #languageName = "Filipino"

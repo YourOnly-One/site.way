@@ -10,7 +10,9 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 <title>{{ $title }}</title>
 
-<link rel='canonical' href='{{ .Permalink }}'>
+{{- /* YourOnly.One: We already have this
+  <link rel='canonical' href='{{ .Permalink }}'>
+*/ -}}
 
 {{- partial "head/style.html" . -}}
 {{- partial "head/script.html" . -}}

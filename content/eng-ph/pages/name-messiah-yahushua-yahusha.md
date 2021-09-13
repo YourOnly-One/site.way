@@ -5,7 +5,7 @@ description = ""  # For Schema.org; OpenGraph; Twitter Cards
 date = "2016-02-04T03:27:17"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/p/name-messiah-yahushua.html"]
 slug = "The Name of our Messiah is Yahushua"
 translationKey = "The Name of our Messiah is Yahushua"
 relCanonical = "https://im.youronly.one/way/the-name-of-our-messiah-is-yahushua/"                           # only needed when this is not the original post

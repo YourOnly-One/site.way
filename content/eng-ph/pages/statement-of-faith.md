@@ -5,7 +5,7 @@ description = ""  # For Schema.org; OpenGraph; Twitter Cards
 date = "2011-01-27T03:27:17"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/p/statement-of-faith.html"]
 slug = "Statement of Faith"
 translationKey = "Statement of Faith"
 relCanonical = "https://im.youronly.one/way/statement-of-faith/"                           # only needed when this is not the original post

@@ -90,7 +90,7 @@ pre = "infinity"
 <ul class="custom_liststyle checkmark-heavy list-red">
   <li><a href="https://www.eliyah.com/yahushua.html" rel="noopener noreferrer external nofollow">Why "Yahushua"?</a></li>
   <li><a href="https://www.worldslastchance.com/why-yahuwah-a-yahushua-only.html" rel="noopener noreferrer external nofollow">Why Yahuwah &amp; Yahushua Only</a></li>
-  <li><a href="http://localhost:1313/way/messiahs-name-yahushua-or-yahusha-201634/" rel="me noopener noreferrer">Messiah's name: Yahushua or Yahusha?</a></li>
+  <li><a href="https://im.youronly.one/way/messiahs-name-yahushua-or-yahusha-201634/" rel="me noopener noreferrer">Messiah's name: Yahushua or Yahusha?</a></li>
   <li><a href="https://ha-shem.followersofyah.com/Part2.html" rel="noopener noreferrer external nofollow">Yahushua -- The Name Above All Names</a></li>
   <li><a href="https://www.yahuwah.co.uk/The-Evidence-for-Yahushua.html" rel="noopener noreferrer external nofollow">The Name above all Names -- The Evidence for Yahushua</a></li>
   <li><a href="https://www.yahuyahweh.org/eaoy/pdf/Yahushua.pdf" rel="noopener noreferrer external nofollow">Yahushua.pdf (right-click and 'save as' to download and view the Hebrew characters correctly)</a></li>

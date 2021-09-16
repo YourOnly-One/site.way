@@ -8,5 +8,5 @@ require (
 	github.com/YourOnly-One/hugo-shortcodes v0.0.0-20210906082846-759c056ba3d0
 	github.com/YourOnly-One/hugo-structured-data v0.0.0-20210906092140-799dc15017b1
 	github.com/YourOnly-One/yoo-hugo-content v0.0.0-20210913132237-166a14db0b9f
-	github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20210912144820-f9fa23942530
+	github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20210916021545-e94f2add3591
 )

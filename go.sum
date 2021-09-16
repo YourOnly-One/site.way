@@ -8,5 +8,5 @@ github.com/YourOnly-One/hugo-structured-data v0.0.0-20210906092140-799dc15017b1 
 github.com/YourOnly-One/hugo-structured-data v0.0.0-20210906092140-799dc15017b1/go.mod h1:fh2ZF1p5Pm7WoH96N+8Kz7SK+UCYYumip4GFr2pOp5E=
 github.com/YourOnly-One/yoo-hugo-content v0.0.0-20210913132237-166a14db0b9f h1:/nTFhjTiJcHY+JMk/wmfJSEoiLFOPACM1vTkWRXzrjc=
 github.com/YourOnly-One/yoo-hugo-content v0.0.0-20210913132237-166a14db0b9f/go.mod h1:6xVSAq28SE0sNAk8f+n3l0GqIExME2r1v+ZA/XdIc/o=
-github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20210912144820-f9fa23942530 h1:WIUzoqZ31Dh85jS9BC9+1oO5OITtGh5XUpjRVUOdRN0=
-github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20210912144820-f9fa23942530/go.mod h1:CySocAz+5l/ZN5AMLSrlS0JR6DOn1+P13zY9sKFN6hM=
+github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20210916021545-e94f2add3591 h1:9aT92tIQPryG/oGxemXLhGv8w8ZvBXVdxyWNslIVD8Q=
+github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20210916021545-e94f2add3591/go.mod h1:CySocAz+5l/ZN5AMLSrlS0JR6DOn1+P13zY9sKFN6hM=

@@ -4,11 +4,12 @@ description: The Way of Believers
 date: '2019-02-28'
 aliases:
   - about-us
-lastmod: '2020-10-09'
+#lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
         pre: user
+comments: false
 ---
 
 Welcome to **The Way of Believers**™.

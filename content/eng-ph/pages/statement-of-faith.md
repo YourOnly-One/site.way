@@ -9,8 +9,8 @@ aliases = ["/p/statement-of-faith.html"]
 slug = "Statement of Faith"
 translationKey = "Statement of Faith"
 relCanonical = "https://im.youronly.one/way/statement-of-faith/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/statement-of-faith/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = [""]                           # taxonomy
@@ -18,7 +18,7 @@ keywords = ["statement of faith"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy
 
-comments = true
+comments = false
 #weight = ""
 
 #featured = true                              # theme specific

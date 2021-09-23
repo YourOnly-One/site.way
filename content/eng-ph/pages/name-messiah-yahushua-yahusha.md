@@ -9,8 +9,8 @@ aliases = ["/p/name-messiah-yahushua.html"]
 slug = "The Name of our Messiah is Yahushua"
 translationKey = "The Name of our Messiah is Yahushua"
 relCanonical = "https://im.youronly.one/way/the-name-of-our-messiah-is-yahushua/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/the-name-of-our-messiah-is-yahushua/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Literature"]                           # taxonomy
@@ -18,7 +18,7 @@ keywords = ["Name", "True Name", "Real Name", "Actual Name", "Yahushua", "Yahush
 series = ["TrueName"]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy
 
-comments = true
+comments = false
 #weight = ""
 
 #featured = true                              # theme specific

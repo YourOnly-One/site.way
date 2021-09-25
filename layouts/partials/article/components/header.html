@@ -37,11 +37,9 @@
     {{ $relpermalink := .RelPermalink }}
     {{ $title := .Title }}
     {{ with .Params.images }}
-        {{ range first 1 . }}
-            <div class="article-image">
-                <a href="{{ $relpermalink }}"><img src="{{ . | absURL }}" loading="lazy" alt="Featured image of post {{ $title }}" /></a>
-            </div>
-        {{ end }}
+        <div class="article-image">
+            <a href="{{ $relpermalink }}"><img src="{{ index . 0 | absURL }}" loading="lazy" alt="Featured image of post {{ $title }}" /></a>
+        </div>
     {{ end }}
 
     {{ partialCached "article/components/details" . .RelPermalink }}

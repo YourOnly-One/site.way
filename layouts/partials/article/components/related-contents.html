@@ -12,9 +12,7 @@
 
                     {{ $imageFirst := "" }}
                     {{ with .Params.images }}
-                        {{ range first 1 . }}
-                            {{ $imageFirst = . }}
-                        {{ end }}
+                        {{ $imageFirst = index . 0 | absURL }}
                     {{ end }}
                     <article class="{{ if $imageFirst }}has-image{{ end }}">
                         <a href="{{ .RelPermalink }}">

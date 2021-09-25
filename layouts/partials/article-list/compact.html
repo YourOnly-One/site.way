@@ -13,16 +13,6 @@
         </div>
 
         {{- $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" -}}
-
-        {{ $title := .Title }}
-        {{ with .Params.images }}
-            {{ range first 1 . }}
-                <div class="article-image">
-                    <img src="{{ . }}" loading="lazy" alt="Featured image of post {{ $title }}" />
-                </div>
-            {{ end }}
-        {{ end }}
-
         {{- /* YourOnly.One: changed
             {{ if $image.exists }}
                 <div class="article-image">
@@ -48,5 +38,12 @@
                 </div>
             {{ end }}
         */ -}}
+
+        {{ $title := .Title }}
+        {{ with .Params.images }}
+            <div class="article-image">
+                <img src="{{ index . 0 | absURL }}" loading="lazy" alt="Featured image of post {{ $title }}" />
+            </div>
+        {{ end }}
     </a>
 </article>

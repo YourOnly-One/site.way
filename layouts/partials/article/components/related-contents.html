@@ -1,0 +1,31 @@
+{{/* YourOnly.One: THIS SHOWS AT THE FOOTER OF EACH POST */}}
+<aside class="related-contents--wrapper">
+    {{ $related := (where (.Site.RegularPages.Related .) "Params.hidden" "!=" true) | first 5 }}
+    {{ with $related }}
+        <h2 class="section-title">{{ T "article.relatedContents" }}</h2>
+        <div class="related-contents">
+            <div class="flex article-list--tile">
+                {{ range . }}
+                    {{- /* YourOnly.One: changed
+                        {{ partial "article-list/tile" (dict "context" . "size" "250x150" "Type" "articleList") }}
+                    */ -}}
+
+                    {{ $imageFirst := "" }}
+                    {{ with .Params.images }}
+                        {{ range first 1 . }}
+                            {{ $imageFirst = . }}
+                        {{ end }}
+                    {{ end }}
+                    <article class="{{ if $imageFirst }}has-image{{ end }}">
+                        <a href="{{ .RelPermalink }}">
+                            <div class="article-image">
+                                <img src="{{ $imageFirst }}" loading="lazy" data-key="{{ .Slug }}" data-hash="{{ $imageFirst }}"/>
+                            </div>
+                        </a>
+                    </article>
+
+                {{ end }}
+            </div>
+        </div>
+    {{ end }}
+</aside>

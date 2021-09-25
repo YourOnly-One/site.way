@@ -41,7 +41,7 @@ jquerycdn = false
 ### END: Structured Data ###
 
 ### BGN: Theme Settings ###
-  featuredImageField = "cover"
+  #featuredImageField = ""
   rssFullContent = true
   #favicon = ""
 
@@ -67,7 +67,7 @@ jquerycdn = false
     readingTime = true
     [article.license]
       enabled = false
-      default = "CHANGE_THIS"             # We do not need this.
+      #default = "CHANGE_THIS"             # We do not need this.
 
   [comments]
     enabled = true
@@ -93,16 +93,20 @@ jquerycdn = false
     [widgets.tagCloud]
       limit = "10"
 
-  [opengraph]
-    [opengraph.twitter]
-      site = "YourOnlyOne7"
-      card = "summary_large_image"
+  #[opengraph]
+    #[opengraph.twitter]
+      #site = "YourOnlyOne7"
+      #card = "summary_large_image"
 
   [defaultImage]
-    [defaultImage.opengraph]
-      enabled = true
-      local = false
-      src = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+    enabled = false
+    local = false
+    src = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+
+    #[defaultImage.opengraph]
+      #enabled = true
+      #local = false
+      #src = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 
   [colorScheme]
     toggle = true

@@ -9,4 +9,5 @@ menu:
     main:
         weight: -60
         pre: search
+metarobots: "noindex"
 ---

@@ -7,4 +7,5 @@ menu:
     main:
         weight: -70
         pre: archives
+metarobots: "noindex"
 ---

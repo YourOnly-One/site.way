@@ -3,7 +3,7 @@ replacements = [
   "github.com/YourOnly-One/hugo-structured-data -> /home/yuki/repos/hugo-modules/hugo-structured-data",
   "github.com/YourOnly-One/hugo-shortcodes -> /home/yuki/repos/hugo-modules/hugo-shortcodes",
   "github.com/YourOnly-One/hugo-atom-feed -> /home/yuki/repos/hugo-modules/hugo-atom-feed",
-  "github.com/CaiJimmy/hugo-theme-stack -> /home/yuki/repos/hugo-themes/way-hugo-theme-stack",
+  "github.com/techmagus/hugo-theme-stack -> /home/yuki/repos/hugo-themes/way-hugo-theme-stack",
   "github.com/YourOnly-One/yoo-hugo-content -> /home/yuki/repos/hugo-modules/yoo-hugo-content"
 ]
 
@@ -25,7 +25,7 @@ replacements = [
   path = "github.com/YourOnly-One/hugo-atom-feed"
 
 [[imports]]
-  path = "github.com/CaiJimmy/hugo-theme-stack"
+  path = "github.com/techmagus/hugo-theme-stack"
 
 [[imports]]
   path = "github.com/YourOnly-One/yoo-hugo-content"

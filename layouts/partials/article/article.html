@@ -5,6 +5,14 @@
 
     {{ partial "article/components/content" . }}
 
+    <section class="article-content">
+        <!-- BGN: YourOnly.One Head-01-Top -->
+          {{- if templates.Exists "partials/youronly.one-post-02-btm.html" -}}
+            {{ partial "youronly.one-post-02-btm.html" . }}
+          {{- end }}
+        <!-- END: YourOnly.One Head-01-Top -->
+    </section>
+
     {{ partial "article/components/footer" . }}
 
     {{ if or .Params.math .Site.Params.article.math }}

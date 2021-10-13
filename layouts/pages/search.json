@@ -1,4 +1,5 @@
-{{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
+{{/* YourOnly.One: changed */}}
+{{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainTypes -}}
 {{- $notHidden := where .Site.RegularPages "Params.hidden" "!=" true -}}
 {{- $filtered := ($pages | intersect $notHidden) -}}
 

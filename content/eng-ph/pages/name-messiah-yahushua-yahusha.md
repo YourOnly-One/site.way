@@ -1,6 +1,6 @@
 +++
 title = "Messiah's Name"
-description = ""  # For Schema.org; OpenGraph; Twitter Cards
+#description = ""  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-02-04T03:27:17"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
@@ -16,7 +16,7 @@ channels = ["Way of Believers"]
 categories = ["Literature"]                           # taxonomy
 keywords = ["Name", "True Name", "Real Name", "Actual Name", "Yahushua", "Yahusha"]                             # meta keywords
 series = ["TrueName"]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = false
 #weight = ""
@@ -31,10 +31,9 @@ hidden = false
 
 #contenttypes = [""]
 
-#videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"]    # og:images
-cover = "https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"       # theme specific
+#videos = [""]                                # og:video
 
 [author]
 #name = ""
@@ -45,38 +44,6 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 [menu.main]
 weight = "-70"
 pre = "infinity"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 <div class="separator" style="clear: both; text-align: center;">
   <a href="https://4.bp.blogspot.com/--GxZA64O0cU/Xc-ZU881_iI/AAAAAAAAeiE/jTpamqrVP5UYL1UIlTMm8Ze_k3pcmXzWgCPcBGAYYCw/s1600/Yahushua-infographic-CC_BY-SA_4.0_International_by_1way.faith.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" border="0" src="https://4.bp.blogspot.com/--GxZA64O0cU/Xc-ZU881_iI/AAAAAAAAeiE/jTpamqrVP5UYL1UIlTMm8Ze_k3pcmXzWgCPcBGAYYCw/s1600/Yahushua-infographic-CC_BY-SA_4.0_International_by_1way.faith.jpg" data-original-width="1000" data-original-height="750" /></a>

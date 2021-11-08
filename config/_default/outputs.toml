@@ -1,5 +1,5 @@
 # home/atom.xml
-home = ["HTML", "JSON", "Atom", "RSS"]                            # default: HTML, RSS
+home = ["HTML", "Atom", "RSS"]                            # default: HTML, RSS
 
 # home/section/PAGE-POST/atom.xml
 page = ["HTML"]                            # default: HTML

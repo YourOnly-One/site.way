@@ -14,7 +14,7 @@
                     {{ with .Params.images }}
                         {{ $imageFirst = index . 0 | absURL }}
                     {{ end }}
-                    <article class="{{ if $imageFirst }}has-image{{ end }}">
+                    <article class="{{ if $imageFirst }}has-image{{ end }}" data-clarity-region="article">
                         <a href="{{ .RelPermalink }}">
                             <div class="article-image">
                                 <img src="{{ $imageFirst }}" loading="lazy" data-key="{{ .Slug }}" data-hash="{{ $imageFirst }}"/>

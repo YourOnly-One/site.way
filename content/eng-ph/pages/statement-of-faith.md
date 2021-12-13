@@ -43,7 +43,9 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 
 [menu.main]
 weight = "-80"
-pre = "infinity"
+
+[menu.main.params]
+icon = "infinity"
 +++
 <div class="separator" style="clear: both; text-align: center;">
   <a href="https://3.bp.blogspot.com/-sV09dgiN5V4/XkpzIoU5gcI/AAAAAAAAf7o/Hy1VrWiiY3sCmM1VyHpmeHDM7H0ZaIiYwCPcBGAYYCw/s1600/FlagMenorah-Proto-%2528CC0%2529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" border="0" src="https://3.bp.blogspot.com/-sV09dgiN5V4/XkpzIoU5gcI/AAAAAAAAf7o/Hy1VrWiiY3sCmM1VyHpmeHDM7H0ZaIiYwCPcBGAYYCw/s1600/FlagMenorah-Proto-%2528CC0%2529.jpg" data-original-width="1052" data-original-height="727" /></a>

@@ -2,13 +2,15 @@
 title: 회사 소개
 description: 신자의 길
 date: '2019-02-28'
-aliases:
-  - about-us
-lastmod: '2020-10-09'
+#aliases:
+#  - about-us
+#lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
-        pre: user
+        params:
+            icon: user
+comments: false
 ---
 
 **신도의 길**에 오신 것을 환영합니다.

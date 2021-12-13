@@ -2,13 +2,15 @@
 title: 私たちに関しては
 description: 信者の道
 date: '2019-02-28'
-aliases:
-  - about-us
-lastmod: '2020-10-09'
+#aliases:
+#  - about-us
+#lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
-        pre: user
+        params:
+            icon: user
+comments: false
 ---
 
 「**信者の道**」へようこそ。

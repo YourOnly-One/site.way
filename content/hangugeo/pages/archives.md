@@ -6,6 +6,7 @@ slug: "archives"
 menu:
     main:
         weight: -70
-        pre: archives
+        params:
+            icon: archives
 metarobots: "noindex"
 ---

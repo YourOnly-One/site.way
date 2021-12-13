@@ -1,5 +1,5 @@
 # YourOnly.One: Do not use mainSections, it's conflicting with the hugo-theme-stack theme.
-#mainSections = ["blog", "posts"]                                             # Hugo default
+mainSections = ["blog", "posts"]                                             # Hugo default
 mainTypes = ["article", "sitepage", "review"]                                                # YourOnly.One
 
 googleTagManager = "GTM-KT65GHZ"

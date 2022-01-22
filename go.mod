@@ -5,8 +5,8 @@ go 1.17
 require (
 	github.com/YourOnly-One/hugo-feeds v0.0.0-20211121023953-ee287bb5115c
 	github.com/YourOnly-One/hugo-semantic-web v1.1.2-0.20211210005919-2ec5c8d2a0f8
-	github.com/YourOnly-One/hugo-shortcodes v0.0.0-20211218000744-cbabf609d74e
-	github.com/YourOnly-One/yoo-hugo-content v0.0.0-20211217235105-d3f6d63db2dc
-	github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20211217235131-1b88a92fcc5f
-	github.com/techmagus/hugo-theme-stack v3.2.1-0.20211204201622-359e4b34c1f9+incompatible
+	github.com/YourOnly-One/hugo-shortcodes v0.0.0-20211219042607-08a6552e45af
+	github.com/YourOnly-One/yoo-hugo-content v0.0.0-20220122223626-973e3f49238d
+	github.com/YourOnly-One/yoo-hugo-defaults v0.0.0-20220121200035-ca963621731d
+	github.com/techmagus/hugo-theme-stack v1.1.1-0.20220122231021-a8fcac21a18f
 )

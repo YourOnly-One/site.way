@@ -2,6 +2,7 @@
 title: 회사 소개
 description: 신자의 길
 date: '2019-02-28'
+lastmod: '2019-02-28'
 #aliases:
 #  - about-us
 #lastmod: '2020-10-09'

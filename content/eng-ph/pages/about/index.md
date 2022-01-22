@@ -2,6 +2,7 @@
 title: About
 description: The Way of Believers
 date: '2019-02-28'
+lastmod: '2019-02-28'
 aliases:
   - /p/about-us.html
 #lastmod: '2020-10-09'

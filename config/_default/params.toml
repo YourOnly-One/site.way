@@ -2,7 +2,6 @@
 mainSections = ["blog", "posts"]                                             # Hugo default
 mainTypes = ["article", "sitepage", "review"]                                                # YourOnly.One
 
-googleTagManager = "GTM-KT65GHZ"
 subdir = "way"
 rssfull = "true"
 faviconcache = "fmgy"

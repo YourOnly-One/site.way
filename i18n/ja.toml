@@ -45,6 +45,9 @@ other = "さらに見る"
 [widget.tagCloud.title]
 other = "タグ"
 
+[widget.categoriesCloud.title]
+other = "カテゴリ"
+
 [search.title]
 other = "検索"
 

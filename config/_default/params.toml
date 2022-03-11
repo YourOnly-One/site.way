@@ -53,48 +53,41 @@ jquerycdn = false
 
 		[comments.disqusjs]
 			shortname = "youronlyone"
-			#apiUrl = ""
-			#apiKey = ""
-			#admin = ""
-			#adminLabel = ""
 
-	[widgets]
-		#enabled = ["search", "archives", "tag-cloud"]
-		enabled = ["search", "series-cloud", "cat-cloud", "tag-cloud"]
-		#[widgets.archives]
-			#limit = "5"
-			#path = "/archives"
-		[widgets.seriesCloud]
-			limit = "10"
-		[widgets.catCloud]
-			limit = "10"
-		[widgets.tagCloud]
-			limit = "10"
+	[[widgets.homepage]]
+	type = "search"
 
-	#[opengraph]
-		#[opengraph.twitter]
-			#site = "YourOnlyOne7"
-			#card = "summary_large_image"
+	#[[widgets.homepage]]
+	#type = "archives"
+	#	[widgets.homepage.params]
+	#	limit = "10"
 
-	[defaultImage]
-		enabled = false
-		local = false
-		src = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+	[[widgets.homepage]]
+	type = "series"
+		[widgets.homepage.params]
+		limit = "10"
 
-		#[defaultImage.opengraph]
-			#enabled = true
-			#local = false
-			#src = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+	[[widgets.homepage]]
+	type = "categories"
+		[widgets.homepage.params]
+		limit = "10"
+
+	[[widgets.homepage]]
+	type = "tag-cloud"
+		[widgets.homepage.params]
+		limit = "10"
+
+	[[widgets.page]]
+	type = "toc"
 
 	[colorScheme]
 		toggle = true
 		default = "dark"
 
-	[imageProcessing]
-		[imageProcessing.cover]
-			enabled = true
-		[imageProcessing.content]
-			enabled = true
+	[imageProcessing.cover]
+		enabled = true
+	[imageProcessing.content]
+		enabled = true
 ### END: Theme Settings ###
 
 ### BGN: Other Settings ###

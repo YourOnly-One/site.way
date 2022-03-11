@@ -46,11 +46,14 @@ other = "More"
 [widget.tagCloud.title]
 other = "Tags"
 
+[widget.categoriesCloud.title]
+other = "Categories"
+
 [search.title]
 other = "Search"
 
 [search.placeholder]
-other = "Type something..."
+other = "Type something…"
 
 [search.resultTitle]
 other = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"

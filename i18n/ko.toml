@@ -46,6 +46,9 @@ other = "더보기"
 [widget.tagCloud.title]
 other = "태그"
 
+[widget.categoriesCloud.title]
+other = "카테고리"
+
 [search.title]
 other = "검색"
 

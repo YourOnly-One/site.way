@@ -7,6 +7,7 @@ rssfull = "true"
 faviconcache = "fmgy"
 faviconbuster = "TimmieIsMyFate"
 jquerycdn = false
+websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfeedr.com/", "https://pubsubhubbub.superfeedr.com/", "https://websubhub.com/hub"]
 
 googleadsense = "ca-pub-8360283248006398"
 

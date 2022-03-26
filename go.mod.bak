@@ -7,6 +7,6 @@ require (
 	github.com/YourOnly-One/hugo-semantic-web main
 	github.com/YourOnly-One/hugo-shortcodes main
 	github.com/YourOnly-One/hugo-feeds main
-	github.com/techmagus/hugo-theme-stack main
+	github.com/techmagus/hugo-theme-stack/v3 main
 	github.com/YourOnly-One/yoo-hugo-content main
 )

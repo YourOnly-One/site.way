@@ -1,0 +1,61 @@
+<style>
+	body {
+		font-family: var(--notosans-font), var(--notosans-hebrew-font), var(--notosans-baybayin-font), var(--base-font-family), var(--base-sans-font);
+	}
+	pre {
+		font-family: "Noto Sans Mono", var(--base-monospace-font);
+	}
+	code, kbd, samp {
+		font-family: "Noto Sans Mono", var(--base-monospace-font);
+	}
+	.article-content {
+		font-family: var(--notosans-font), var(--notosans-hebrew-font), var(--notosans-baybayin-font), var(--article-font-family);
+	}
+	/* BGN: multilingual support */
+		h1, h2, h3, h4, h5, h6 {
+			font-family: var(--notosans-font), var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		h1:lang(zh-Hans), h2:lang(zh-Hans), h3:lang(zh-Hans), h4:lang(zh-Hans), h5:lang(zh-Hans), h6:lang(zh-Hans) {
+			font-family: var(--notosans-font), "Noto Sans CJK SC", "Noto Sans SC", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		h1:lang(zh), h2:lang(zh), h3:lang(zh), h4:lang(zh), h5:lang(zh), h6:lang(zh),
+		h1:lang(zh-Hant), h2:lang(zh-Hant), h3:lang(zh-Hant), h4:lang(zh-Hant), h5:lang(zh-Hant), h6:lang(zh-Hant) {
+			font-family: var(--notosans-font), "Noto Sans CJK TC", "Noto Sans TC", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		h1:lang(ja), h2:lang(ja), h3:lang(ja), h4:lang(ja), h5:lang(ja), h6:lang(ja) {
+			font-family: var(--notosans-font), "Noto Sans CJK JP", "Noto Sans JP", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		h1:lang(ko), h2:lang(ko), h3:lang(ko), h4:lang(ko), h5:lang(ko), h6:lang(ko) {
+			font-family: var(--notosans-font), "Noto Sans CJK KR", "Noto Sans KR", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		article, header, footer, li, p, a,
+		.article-content {
+			font-family: var(--notosans-font), var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		article:lang(zh-Hans), header:lang(zh-Hans), footer:lang(zh-Hans), li:lang(zh-Hans), p:lang(zh-Hans), a:lang(zh-Hans),
+		.article-content:lang(zh-Hans) {
+			font-family: var(--notosans-font), "Noto Sans CJK SC", "Noto Sans SC", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		article:lang(zh), header:lang(zh), footer:lang(zh), li:lang(zh), p:lang(zh), a:lang(zh),
+		.article-content:lang(zh),
+		article:lang(zh-Hant), header:lang(zh-Hant), footer:lang(zh-Hant), li:lang(zh-Hant), p:lang(zh-Hant), a:lang(zh-Hant),
+		.article-content:lang(zh-Hant) {
+			font-family: var(--notosans-font), "Noto Sans CJK TC", "Noto Sans TC", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		article:lang(ja), header:lang(ja), footer:lang(ja), li:lang(ja), p:lang(ja), a:lang(ja),
+		.article-content:lang(ja) {
+			font-family: var(--notosans-font), "Noto Sans CJK JP", "Noto Sans JP", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+		article:lang(ko), header:lang(ko), footer:lang(ko), li:lang(ko), p:lang(ko), a:lang(ko),
+		.article-content:lang(ko) {
+			font-family: var(--notosans-font), "Noto Sans CJK KR", "Noto Sans KR", var(--notosans-hebrew-font), var(--notosans-baybayin-font);
+		}
+	/* END: multilingual support */
+
+	.article-content code {
+		font-family: "Noto Sans Mono", var(--code-font-family), var(--base-monospace-font);
+	}
+	.article-content pre {
+		font-family: "Noto Sans Mono", var(--code-font-family), var(--base-monospace-font);
+	}
+</style>

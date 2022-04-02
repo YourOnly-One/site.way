@@ -1,0 +1,65 @@
+[toggleMenu]
+other = "Toggle Menu"
+
+[darkMode]
+other = "Dark Mode"
+
+[list.page]
+one = "1 page"
+other = "{{ .Count }} pages"
+
+[list.section]
+other = "Section"
+
+[list.subsection]
+one = "Subsection"
+other = "Subsections"
+
+[article.back]
+other = "Back"
+
+[article.tableOfContents]
+other = "Table of contents"
+
+[article.relatedContents]
+other = "Related contents"
+
+[article.lastUpdatedOn]
+other = "Last updated on"
+
+[article.readingTime]
+one = "1 minute read"
+other = "{{ .Count }} minutes read"
+
+[notFound.title]
+other = "Not Found"
+
+[notFound.subtitle]
+other = "This page does not exist"
+
+[widget.archives.title]
+other = "Archives"
+
+[widget.archives.more]
+other = "More"
+
+[widget.tagCloud.title]
+other = "Tags"
+
+[widget.categoriesCloud.title]
+other = "Categories"
+
+[search.title]
+other = "Search"
+
+[search.placeholder]
+other = "Type something…"
+
+[search.resultTitle]
+other = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+
+[footer.builtWith]
+other = "Built with {{ .Generator }}"
+
+[footer.designedBy]
+other = "Theme {{ .Theme }} designed by {{ .DesignedBy }}"

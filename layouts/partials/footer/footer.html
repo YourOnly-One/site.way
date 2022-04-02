@@ -1,0 +1,36 @@
+{{- $ThemeVersion := "3.10.0" -}}
+<footer class="site-footer">
+    {{- /* YourOnly.One: disabled
+    <section class="copyright">
+        &copy;
+        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+            {{ .Site.Params.footer.since }} -
+        {{ end }}
+        {{ now.Format "2006" }} {{ .Site.Title }}
+    </section>
+    */ -}}
+
+    <section class="powerby">
+        <!-- BGN: YourOnly.One Footer-01 -->
+            {{- if templates.Exists "partials/youronly.one-footer-01.html" -}}
+                {{ partial "youronly.one-footer-01.html" . }}
+            {{- end }}
+        <!-- END: YourOnly.One Footer-01 -->
+        <p class="txt_center">
+            <a href="https://github.com/CaiJimmy/hugo-theme-stack" rel="noopener external nofollow">Stack</a> {{ i18n "themeby" }} <a href="https://github.com/CaiJimmy" rel="noopener external nofollow">Jimmy Cai</a>
+        </p>
+
+        {{- /* YourOnly.One: disabled
+        {{ with .Site.Params.footer.customText }}
+            {{ . | safeHTML }} <br/>
+        {{ end }}
+
+        {{- $Generator := `<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>` -}}
+        {{- $Theme := printf `<b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="%s">Stack</a></b>` $ThemeVersion -}}
+        {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}}
+
+        {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
+        {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
+        */ -}}
+    </section>
+</footer>

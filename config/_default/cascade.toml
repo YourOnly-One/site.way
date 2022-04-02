@@ -1,0 +1,5 @@
+images = ["https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp", "https://img.youronly.one/works/FlagMenorah-Paleo-(CC0).webp"]
+  [_target]
+    kind = "page"
+    #lang = ""
+    #path = "/blog/**"

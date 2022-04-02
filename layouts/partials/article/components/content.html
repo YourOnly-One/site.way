@@ -1,0 +1,13 @@
+<section class="article-content">
+    <!-- Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 -->
+    {{ $wrappedTable := printf "<div class=\"table-wrapper\">${1}</div>" }}
+    {{- /* BGN: YourOnly.One: changed */ -}}
+        {{- /* .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML */ -}}
+
+        {{- $inserthere := `<div role="cover-image-attributions">` -}}
+        {{- $insertcontent := partial "youronly.one-content-partof.html" . -}}
+        {{- $joined := print $insertcontent $inserthere -}}
+        {{- $content := replace .Content $inserthere $joined 1 -}}
+        {{ $content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML }}
+    {{- /* END: YourOnly.One: changed */ -}}
+</section>

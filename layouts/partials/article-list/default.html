@@ -1,0 +1,6 @@
+{{/* YourOnly.One: THIS SHOWS IN THE HOMEPAGE */}}
+{{ $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" }}
+{{/* YourOnly.One: changed */}}
+<article class="{{ if .Params.images }}has-image{{ end }}" data-clarity-region="article">
+    {{ partial "article/components/header" . }}
+</article>

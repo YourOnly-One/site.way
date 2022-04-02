@@ -1,0 +1,64 @@
+[toggleMenu]
+other = "メニューを開く・閉じる"
+
+[darkMode]
+other = "ダークモード"
+
+[list.page]
+one = "1ページ"
+other = "{{ .Count }}ページ"
+
+[list.section]
+other = "章"
+
+[list.subsection]
+one = "サブセクション"
+other = "サブセクション"
+
+[article.back]
+other = "前のページ"
+
+[article.tableOfContents]
+other = "目次"
+
+[article.relatedContents]
+other = "関連するコンテンツ"
+
+[article.lastUpdatedOn]
+other = "最終更新"
+
+[article.readingTime]
+other = "読了時間: {{ .Count }}分"
+
+[notFound.title]
+other = "404お探しのページが見つかりませんでした"
+
+[notFound.subtitle]
+other = "指定されたページは存在しません。"
+
+[widget.archives.title]
+other = "アーカイブ"
+
+[widget.archives.more]
+other = "さらに見る"
+
+[widget.tagCloud.title]
+other = "タグ"
+
+[widget.categoriesCloud.title]
+other = "カテゴリ"
+
+[search.title]
+other = "検索"
+
+[search.placeholder]
+other = "入力..."
+
+[search.resultTitle]
+other = "#PAGES_COUNT 件 （#TIME_SECONDS 秒）"
+
+[footer.builtWith]
+other = "{{ .Generator }}で構築"
+
+[footer.designedBy]
+other = "{{ .DesignedBy }}がデザインしたテーマ{{ .Theme }}"

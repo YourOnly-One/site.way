@@ -1,0 +1,36 @@
+<!-- BGN: YourOnly.One Head-01-Top -->
+  {{- if templates.Exists "partials/youronly.one-head-01-top.html" -}}
+    {{ partial "youronly.one-head-01-top.html" . }}
+  {{- end }}
+<!-- END: YourOnly.One Head-01-Top -->
+
+{{- $description := partialCached "data/description" . .RelPermalink -}}
+<meta name='description' content='{{ $description }}'>
+
+{{- $title := partialCached "data/title" . .RelPermalink -}}
+<title>{{ $title }}</title>
+
+{{- /* YourOnly.One: We already have this
+  <link rel='canonical' href='{{ .Permalink }}'>
+*/ -}}
+
+{{- partial "head/style.html" . -}}
+{{- partial "head/script.html" . -}}
+{{- partial "head/opengraph/include.html" . -}}
+
+{{- range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{- end -}}
+
+{{ with .Site.Params.favicon }}
+    <link rel="shortcut icon" href="{{ . }}" />
+{{ end }}
+
+{{- template "_internal/google_analytics.html" . -}}
+{{- partial "head/custom.html" . -}}
+
+<!-- BGN: YourOnly.One Head-02-Bottom -->
+  {{- if templates.Exists "partials/youronly.one-head-02-btm.html" -}}
+    {{ partial "youronly.one-head-02-btm.html" . }}
+  {{- end }}
+<!-- END: YourOnly.One Head-02-Bottom -->

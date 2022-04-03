@@ -1,4 +1,4 @@
-module way
+module gitlab.com/youronlyone/site.way
 
 go 1.18
 

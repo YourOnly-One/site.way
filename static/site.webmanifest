@@ -7,7 +7,7 @@
   "categories": ["education", "faith", "religion"],
   "display": "minimal-ui",
   "scope": "https://im.youronly.one/way/",
-  "start_url": "https://im.youronly.one",
+  "start_url": "https://im.youronly.one/way/",
   "icons": [
     {
       "src": "https://rsc.youronly.one/favicon/way/android-chrome-192x192.png?fmgy=TimmieIsMyFate",

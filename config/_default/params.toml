@@ -135,7 +135,11 @@ googleadsense = "ca-pub-8360283248006398"
 		followit = "KaPgEQYHDDTdaNZ8ecKS"
 
 	[analytics]
+		beampipeio = "youronly.one"
+		counterdev = "youronlyone"
+		insightsio = "kBp3NTTbGqo2BmcO"
 		microanalyticsio = "ZwSg9rf6GA"
+		swetrix = "bYdcXUajNvru"
 		cfwebanalytics = "07a05e5302d1458da3561ce41791e284"
 		microsoftclarity = "63ddi0b99e"
 ### END: Other Settings ###

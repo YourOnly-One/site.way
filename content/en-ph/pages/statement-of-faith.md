@@ -53,7 +53,7 @@ icon = "infinity"
 
 <p>This page gives an overview of what I <i>presently</i> believe in. This serves as my <b>Statement of Faith</b>. I did my best to keep this as short, simple, and straight as possible.</p>
 
-<p>If you are a family, relative, friend, and/or neighbour, and you are <i>shocked</i> about this, feel free to ask me and I will answer your questions to the best of the knowledge our Creator Father <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) has provided.</p>
+<p>If you are a family, relative, friend, and/or neighbour, and you are <i>shocked</i> about this, feel free to ask me and I will answer your questions to the best of the knowledge our Creator Father <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) has provided.</p>
 
 <!--
 because it is not the same as the "Christians" of the Apostles or more correctly called "HaDerech" ([Followers of] The Way) or "Natsarim" (a.k.a. "YAHudim", "YAHuwan", "Hebrew Israelite", "[Original] Israelite faith", "Apostolic", and/or "Apostolic-Christianity").
@@ -61,14 +61,14 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <h2>Concise</h2>
 <ol class="custom_liststyle rounded-list">
-  <li>Abba's (The Father in Heaven) Name is <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH"); and the Messiah's Name is <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: <a title="Messiah's Name: Yahushua or Yahusha?" href="https://only.1way.faith/p/name-messiah-yahushua.html">Messiah's Name: Yahushua or Yahusha?</a>).
+  <li>Abba's (The Father in Heaven) Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH"); and the Messiah's Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: <a title="Messiah's Name: Yahushua or Yahusha?" href="https://only.1way.faith/p/name-messiah-yahushua.html">Messiah's Name: Yahushua or Yahusha?</a>).
     <p>I am <b><i>not</i></b> a "Sacred Namer".</p>
   </li>
 
-  <li>I believe we should obey the Torah of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) but reject the "traditions of men" or any [religious] traditions.
+  <li>I believe we should obey the Torah of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) but reject the "traditions of men" or any [religious] traditions.
     <p>I am <b><i>not</i></b> a member of any sect of "Judaism".</p>
   </li>
-  <li>I believe we should observe and practice the 7 Appointed Times (commonly known as the 7 Feasts) of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH).
+  <li>I believe we should observe and practice the 7 Appointed Times (commonly known as the 7 Feasts) of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
     <ul class="custom_liststyle checkmark list-green">
       <li>We should not observe nor participate in any feasts in the Gregorian calendar or those declared by the State/government. These are not in the Scripture and is forbidden.</li>
       <li>We should not observe birthdays as this is a self-centric celebration.</li>
@@ -77,11 +77,11 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </li>
   <li>I believe that we should observe the true 7<sup>th</sup> Day Sabbath as revealed and instructed in the Scripture, based on the luni-solar calendar (herein referred to as the "Scriptural Calendar"; it is also important to note that it is <b>not</b> and is <i>different</i> from the "lunar calendar").</li>
 
-  <li>I believe in Salvation as taught by Kepha (Peter) in Acts 2:38 and by Sha'ul (Paul) in 1 Corinthians 15:1-4. It is only by believing, baptism in water in the name of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua), and receiving the Set-apart Ruah (Holy Spirit), that we are saved.
+  <li>I believe in Salvation as taught by Kepha (Peter) in Acts 2:38 and by Sha'ul (Paul) in 1 Corinthians 15:1-4. It is only by believing, baptism in water in the name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua), and receiving the Set-apart Ruah (Holy Spirit), that we are saved.
     <p>I fully reject the "once saved, always saved" doctrine.</p>
   </li>
 
-  <li>I believe in <b>Remnant Theology</b> that the "gentiles" were grafted into the Olive Tree of Israel and has become part of and citizen of the Israel of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH).
+  <li>I believe in <b>Remnant Theology</b> that the "gentiles" were grafted into the Olive Tree of Israel and has become part of and citizen of the Israel of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
     <p>I fully reject the "Replacement Theology" popular within Denominational-Christianity (a.k.a. "Protestant" (protesting against the Vatican yet retaining many of their traditions and dogma), "Born-Again", "Pentecostal", "Christendom", "Catholic" (universal faith), and so on).</p>
   </li>
 
@@ -123,7 +123,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>Aluahim is ONE. There is NO other besides Him.</h3>
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p>"Hear, O Yisra'el: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> is our Elohim; <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> is one."</p>
+    <p>"Hear, O Yisra'el: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is our Elohim; <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is one."</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -257,7 +257,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p><sup>13</sup>"If you turn away your foot from the Sabbath, from doing your pleasure on My set-apart day; and call the Sabbath a delight, <i>and</i> the set-apart of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking <i>your own</i> words: <sup>14</sup>then you shall delight yourself in <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Ya'aqov your father:" for the mouth of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> has spoken it.</p>
+    <p><sup>13</sup>"If you turn away your foot from the Sabbath, from doing your pleasure on My set-apart day; and call the Sabbath a delight, <i>and</i> the set-apart of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking <i>your own</i> words: <sup>14</sup>then you shall delight yourself in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Ya'aqov your father:" for the mouth of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> has spoken it.</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -285,10 +285,10 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<h3><bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (modern Hebrew: <bdo dir="rtl" lang="he">יהוה</bdo>) (YAHUAH/YaHuWaH) never changes and is eternal.</h3>
+<h3><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהוה</bdi>) (YAHUAH/YaHuWaH) never changes and is eternal.</h3>
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p>"For I, <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>, do not change; therefore you, sons of Ya'aqov, are not consumed."</p>
+    <p>"For I, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, do not change; therefore you, sons of Ya'aqov, are not consumed."</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -298,7 +298,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p><bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> Messiah is the same yesterday, today, and to the ages.</p>
+    <p><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> Messiah is the same yesterday, today, and to the ages.</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -340,7 +340,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>The Gospel; Keys to Salvation; and Baptism</h3>
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p>Kepha said to them, "Repent, and be immersed, every one of you, in the Name of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> Messiah for the forgiveness of your sins, and you will receive the gift of the Set-apart Ruah."</p>
+    <p>Kepha said to them, "Repent, and be immersed, every one of you, in the Name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> Messiah for the forgiveness of your sins, and you will receive the gift of the Set-apart Ruah."</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -358,7 +358,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<h3><bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (modern Hebrew: <bdo dir="rtl" lang="he">יהושוע</bdo>) (Yahushua) is the ONE and ONLY Messiah of Israel and the world</h3>
+<h3><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהושוע</bdi>) (Yahushua) is the ONE and ONLY Messiah of Israel and the world</h3>
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
     <p><sup>12</sup>But as many as received Him, to them He gave the authority to become children of Elohim, to those believing in His Name: <sup>13</sup>who have not been born of blood, nor of the will of the flesh, nor of the will of man, but of Elohim. <sup>14</sup>And the Word became flesh, and tabernacled among us. We saw His glory, glory as of an only begotten with a father, full of favor and truth.</p>
@@ -369,7 +369,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<h3><bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) the Messiah is the final and ultimate Passover Lamb</h3>
+<h3><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) the Messiah is the final and ultimate Passover Lamb</h3>
 <p>Read: Yashayahu (Isaiah) 53.</p>
 
 <!--
@@ -382,7 +382,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p><sup>9</sup>that if you will confess with your mouth that <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> is Master, and believe in your heart that Elohim raised Him from the dead, you will be saved. <sup>10</sup>For <i>in</i> the heart man believes unto righteousness; and <i>in</i> the mouth is confession unto salvation. <sup>11</sup>For the Scripture says, "Whoever believes in Him will not be disappointed."</p>
+    <p><sup>9</sup>that if you will confess with your mouth that <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master, and believe in your heart that Elohim raised Him from the dead, you will be saved. <sup>10</sup>For <i>in</i> the heart man believes unto righteousness; and <i>in</i> the mouth is confession unto salvation. <sup>11</sup>For the Scripture says, "Whoever believes in Him will not be disappointed."</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -400,11 +400,11 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<h3>The Renewed/New Covenant in <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) the Messiah</h3>
+<h3>The Renewed/New Covenant in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) the Messiah</h3>
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p><sup>31</sup>"Behold, the days come," says <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>, "that I will cut a new covenant with the house of Yisra'el, and with the house of Yahudah: <sup>32</sup>not according to the covenant that I cut with their fathers in the day that I took them by the hand to bring them out of the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr>; which covenant of Mine they broke, although I was an owner to them," says <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>.</p>
-    <p><sup>33</sup>"But this is the covenant that I will cut with the house of Yisra'el after those days," says <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>: I will put My Torah in their inward parts, and I will write it in their heart. I will be their Elohim, and they shall be My people. <sup>34</sup>They will no longer each teach his neighbor, and every man teach his brother, saying, 'Know <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>;' for they will all know Me, from their least to their greatest," says <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>: "for I will forgive their iniquity, and I will remember their sin no more."</p>
+    <p><sup>31</sup>"Behold, the days come," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, "that I will cut a new covenant with the house of Yisra'el, and with the house of Yahudah: <sup>32</sup>not according to the covenant that I cut with their fathers in the day that I took them by the hand to bring them out of the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr>; which covenant of Mine they broke, although I was an owner to them," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>.</p>
+    <p><sup>33</sup>"But this is the covenant that I will cut with the house of Yisra'el after those days," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: I will put My Torah in their inward parts, and I will write it in their heart. I will be their Elohim, and they shall be My people. <sup>34</sup>They will no longer each teach his neighbor, and every man teach his brother, saying, 'Know <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>;' for they will all know Me, from their least to their greatest," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: "for I will forgive their iniquity, and I will remember their sin no more."</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -414,7 +414,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p>"'I will not hide My face from them anymore; for I have poured out My Ruah on the house of Yisra'el,' says Adonai <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo>."</p>
+    <p>"'I will not hide My face from them anymore; for I have poured out My Ruah on the house of Yisra'el,' says Adonai <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>."</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -465,7 +465,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p><sup>1</sup>Now concerning spiritual things, brothers, I do not want you to be ignorant. <sup>2</sup>You know that when you were heathen, you were led away to those mute idols, however you might be led. <sup>3</sup>Therefore I make known to you that no man speaking by the Ruah of Elohim says, "<bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> is accursed." No one can say, "<bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> is Master," but by the Set-apart Ruah. <sup>4</sup>Now there are various kinds of gifts, but the same Ruah.</p>
+    <p><sup>1</sup>Now concerning spiritual things, brothers, I do not want you to be ignorant. <sup>2</sup>You know that when you were heathen, you were led away to those mute idols, however you might be led. <sup>3</sup>Therefore I make known to you that no man speaking by the Ruah of Elohim says, "<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is accursed." No one can say, "<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master," but by the Set-apart Ruah. <sup>4</sup>Now there are various kinds of gifts, but the same Ruah.</p>
     <p><sup>5</sup>There are various kinds of service, and the same Master. <sup>6</sup>There are various kinds of workings, but the same Elohim, who works all things in all. <sup>7</sup>But to each one is given the manifestation of the Ruah for the profit of all. <sup>8</sup>For to one is given through the Ruah the word of wisdom, and to another the word of knowledge, according to the same Ruah; <sup>9</sup>to another faith, by the same Ruah; and to another gifts of healings, by the one Ruah; <sup>10</sup>and to another workings of miracles; and to another prophecy; and to another discerning of spirits; to another different kinds of languages; and to another the interpretation of languages. <sup>11</sup>But the one and the same Ruah produces all of these, distributing to each one separately as He desires.</p>
     <p><sup>12</sup>For as the body is one, and has many members, and all the members of the body, being many, are one body; so also is Messiah. <sup>13</sup>For in one Ruah we were all immersed into one body, whether Yahudim or Greeks, whether bondservants or free; and were all given to drink of one Ruah.</p>
   </blockquote>
@@ -508,7 +508,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<h3>The assembly, the bride, is a chosen people, a set-apart nation, priests of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) declaring the besorah (message) of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) to the dark world.</h3>
+<h3>The assembly, the bride, is a chosen people, a set-apart nation, priests of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) declaring the besorah (message) of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) to the dark world.</h3>
 <p>Read: Vayiqra (Leviticus) 23.</p>
 
 <!--
@@ -617,7 +617,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h4>Set-apart</h4>
 <figure class="quote_box qbs_verse01 qbm_doublequotationmark qbc_midnightblue">
   <blockquote>
-    <p><sup>44</sup> "'For I am <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> your Elohim. Set yourselves apart therefore, and be set-apart, for I am set-apart. And you shall not make yourselves unclean with any of the swarming things that swarm on the earth. <sup>45</sup> For I am <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> who brought you up from the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr> to be your Elohim; thus you shall be set-apart, for I am set-apart.'"</p>
+    <p><sup>44</sup> "'For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> your Elohim. Set yourselves apart therefore, and be set-apart, for I am set-apart. And you shall not make yourselves unclean with any of the swarming things that swarm on the earth. <sup>45</sup> For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> who brought you up from the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr> to be your Elohim; thus you shall be set-apart, for I am set-apart.'"</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -635,7 +635,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<h3>I believe in the Resurrection of those who accepted and followed <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) and obeyed <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) will receive the reward of eternal life</h3>
+<h3>I believe in the Resurrection of those who accepted and followed <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) and obeyed <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) will receive the reward of eternal life</h3>
 <p>Read: Revelation 19-22.</p>
 
 <!--
@@ -648,11 +648,11 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <h3>The Name of our Father and His Son, our Messiah</h3>
 <ul class="custom_liststyle checkmark-heavy list-green">
-  <li>Father: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (modern Hebrew: <bdo dir="rtl" lang="he">יהוה</bdo>) (pronunciation: yah-hu-ah; transliteration: YAHUAH/YaHuWaH/YHWH)</li>
-  <li>Messiah: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (modern Hebrew: <bdo dir="rtl" lang="he">יהושוע</bdo>) (pronunciation: yah-hu-shua; transliteration: Yahushua)</li>
+  <li>Father: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהוה</bdi>) (pronunciation: yah-hu-ah; transliteration: YAHUAH/YaHuWaH/YHWH)</li>
+  <li>Messiah: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהושוע</bdi>) (pronunciation: yah-hu-shua; transliteration: Yahushua)</li>
 </ul>
 
-<p><bdo dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdo> / <bdo dir="rtl" lang="he">הללויה</bdo> (HalleluYAH/Aleluia)</p>
+<p><bdi dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdi> / <bdi dir="rtl" lang="he">הללויה</bdi> (HalleluYAH/Aleluia)</p>
 
 <hr/>
 

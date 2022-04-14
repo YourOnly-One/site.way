@@ -1,7 +1,8 @@
 # YourOnly.One website source
 
-* [YourOnly.One Way of Believers](https://YourOnly.One/confidentraveler)
-* Theme: [Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack)
+- [YourOnly.One Way Faith](https://im.youronly.one/way/)
+- Theme: [Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
 ## Attribution
+
 Made with [Hugo](https://gohugo.io)

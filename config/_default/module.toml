@@ -1,3 +1,8 @@
+[hugoVersion]
+  extended = true
+  #max = ""
+  min = "0.97.0"
+
 [[imports]]
   disable = false                           # default: false
   ignoreConfig = false                      # default: false
@@ -16,7 +21,7 @@
   path = "gitlab.com/yelosan/hugo-feeds"
 
 [[imports]]
-  path = "github.com/techmagus/hugo-theme-stack"
+  path = "github.com/techmagus/hugo-theme-stack/v3"
 
 [[imports]]
   path = "gitlab.com/youronlyone/content"

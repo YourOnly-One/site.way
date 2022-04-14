@@ -1,19 +1,19 @@
 ---
 title: About
-description: The Way of Believers
+description: One Way Faith
 date: '2019-02-28'
 lastmod: '2019-02-28'
 aliases:
   - /p/about-us.html
 #lastmod: '2020-10-09'
 menu:
-    main: 
+    main:
         weight: -90
         params:
             icon: user
 comments: false
 ---
 
-Welcome to **The Way of Believers**™.
+Welcome to **One Way Faith**™.
 
-**The Way of Believers**™ is a weblog of a Hebrew Israelite Natsari Yahudi's journey into running the race of faith. Subjects discussed range from Christianity to what the Scripture actually teaches, leaving behind the "traditions of men" passed down to us over time.
+**One Way Faith**™ is a weblog of a Hebrew Israelite Natsari Yahudi's journey into running the race of faith. Subjects discussed range from Christianity to what the Scripture actually teaches, leaving behind the "traditions of men" passed down to us over time.

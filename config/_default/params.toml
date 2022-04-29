@@ -110,7 +110,9 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 		license = "https://im.youronly.one/p/legal-notice/"
 		publisher = "https://yelosan.youronly.one/"
 		sameas = [
+			"https://c.im/@youronlyone",
 			"https://mastodon.social/@youronlyone",
+			"https://mastodon.online/@youronlyone",
 			"https://pixelfed.social/youronlyone",
 			"https://youtube.com/YourOnlyONEofcl",
 			"https://twitter.com/YourOnlyONEofcl",
@@ -119,9 +121,12 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 			"https://www.pinterest.com/YourOnlyONEofcl",
 			"https://www.eyeem.com/u/YourOnlyOne",
 			"https://www.goodreads.com/youronlyone",
-			"https://vero.co/youronlyone",
 			"https://www.facebook.com/WayOfBelievers",
-			"https://www.facebook.com/One-Way-Faith-133673070153815/"
+			"https://www.facebook.com/One-Way-Faith-133673070153815/",
+			"https://vero.co/youronlyone",
+			"https://ecency.com/@youronlyone",
+			"https://hive.blog/@youronlyone",
+			"https://steemit.com/@youronlyone"
 		]
 
 		[[semweb.persons]]
@@ -140,9 +145,7 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 		followit = "KaPgEQYHDDTdaNZ8ecKS"
 
 	[analytics]
-		beampipeio = "youronly.one"
 		counterdev = "youronlyone"
-		insightsio = "kBp3NTTbGqo2BmcO"
 		microanalyticsio = "ZwSg9rf6GA"
 		swetrix = "bYdcXUajNvru"
 		cfwebanalytics = "07a05e5302d1458da3561ce41791e284"

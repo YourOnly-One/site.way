@@ -60,10 +60,10 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 	[[widgets.homepage]]
 	type = "search"
 
-	#[[widgets.homepage]]
-	#type = "archives"
-	#	[widgets.homepage.params]
-	#	limit = "10"
+	[[widgets.homepage]]
+	type = "archives"
+		[widgets.homepage.params]
+		limit = "10"
 
 	[[widgets.homepage]]
 	type = "series"

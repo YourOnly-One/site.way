@@ -5,10 +5,10 @@
 <!-- END: YourOnly.One Head-01-Top -->
 
 {{- $description := partialCached "data/description" . .RelPermalink -}}
-<meta name='description' content='{{ $description }}'>
+<meta name='description' content='{{ $description }}' class="p-summary">
 
 {{- $title := partialCached "data/title" . .RelPermalink -}}
-<title>{{ $title }}</title>
+<title class="p-name">{{ $title }}</title>
 
 {{- /* YourOnly.One: We already have this
   <link rel='canonical' href='{{ .Permalink }}'>

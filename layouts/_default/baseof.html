@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {{/* Multilang support for lang attribute */}}
-<html lang="{{ or (.Site.LanguageCode) (.Site.Language.Lang) }}" dir="{{ default `ltr` .Language.LanguageDirection }}" prefix="og: https://ogp.me/ns#{{ if in .Site.Params.mainTypes .Type }} article: https://ogp.me/ns/article#{{ end }}">
+<html lang="{{ or (.Site.LanguageCode) (.Site.Language.Lang) }}" dir="{{ default `ltr` .Language.LanguageDirection }}" prefix="og: https://ogp.me/ns#{{ if in .Site.Params.mainTypes .Type }} article: https://ogp.me/ns/article#{{ end }}" class="h-feed">
     <head>
         {{- partial "head/head.html" . -}}
         {{- block "head" . -}}{{ end }}

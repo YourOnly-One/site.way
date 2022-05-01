@@ -57,3 +57,7 @@ code, kbd, samp {
 .article-content pre {
 	font-family: "Noto Sans Mono", var(--code-font-family), var(--base-monospace-font);
 }
+
+#webmentions {
+	color: var(--card-text-color-main);
+}

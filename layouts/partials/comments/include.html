@@ -1,0 +1,7 @@
+{{ template "_internal/webmention.html" . }}
+<div class="disqus-container">
+    <div id="webmentions"></div>
+</div>
+{{ if .Site.Params.comments.enabled }}
+    {{ partial (printf "comments/provider/%s" .Site.Params.comments.provider) . }}
+{{ end }}

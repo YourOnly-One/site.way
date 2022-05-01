@@ -87,7 +87,7 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 	type = "partofseries"
 
 	[colorScheme]
-		toggle = true
+		toggle = false
 		default = "dark"
 
 	[imageProcessing.cover]

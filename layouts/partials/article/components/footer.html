@@ -1,0 +1,19 @@
+{{- $datetimeformat := i18n "datetimeformat" -}}
+<footer class="article-footer">
+    {{ partial "article/components/tags" . }}
+
+    {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
+    <section class="article-copyright">
+        {{ partial "helper/icon" "copyright" }}
+        <span>{{ default .Site.Params.article.license.default .Params.license | markdownify }}</span>
+    </section>
+    {{ end }}
+
+    {{- if ne .Lastmod .Date -}}
+    <section class="article-lastmod">
+        {{ partial "helper/icon" "clock" }}
+        {{/* YourOnly.One: changed */}}
+        <time datetime="{{ .Lastmod.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-updated">{{ time.Format $datetimeformat .Lastmod }}</time>
+    </section>
+    {{- end -}}
+</footer>

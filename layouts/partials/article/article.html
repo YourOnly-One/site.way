@@ -1,6 +1,6 @@
 {{/* YourOnly.One: THIS SHOWS AS COVER IN POST SINGLE */}}
 {{/* YourOnly.One: changed */}}
-<article class="{{ if .Params.images }}has-image {{ end }}main-article" data-clarity-region="article">
+<article class="h-entry{{ if .Params.images }} has-image {{ end }}main-article" data-clarity-region="article">
     {{ partial "article/components/header" . }}
 
     {{ partial "article/components/content" . }}

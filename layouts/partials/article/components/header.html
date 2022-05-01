@@ -10,7 +10,7 @@
                         {{- $Width := $image.resource.Width -}}
                         {{- $Height := $image.resource.Height -}}
                         {{- $Srcset := "" -}}
-                        
+
                         {{- if (default true .Page.Site.Params.imageProcessing.cover.enabled) -}}
                             {{- $thumbnail := $image.resource.Resize "800x" -}}
                             {{- $thumbnailRetina := $image.resource.Resize "1600x" -}}
@@ -22,8 +22,8 @@
 
                         <img src="{{ $Permalink }}"
                             {{ with $Srcset }}srcset="{{ . }}"{{ end }}
-                            width="{{ $Width }}" 
-                            height="{{ $Height }}" 
+                            width="{{ $Width }}"
+                            height="{{ $Height }}"
                             loading="lazy"
                             alt="Featured image of post {{ .Title }}" />
                     {{ else }}
@@ -38,7 +38,7 @@
     {{ $title := .Title }}
     {{ with .Params.images }}
         <div class="article-image">
-            <a href="{{ $relpermalink }}"><img src="{{ index . 0 | absURL }}" loading="lazy" alt="Featured image of post {{ $title }}" /></a>
+            <a href="{{ $relpermalink }}"><img src="{{ index . 0 | absURL }}" loading="lazy" alt="Featured image of post {{ $title }}" class="u-featured" /></a>
         </div>
     {{ end }}
 

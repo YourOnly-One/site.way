@@ -4,7 +4,7 @@
 <aside class="related-contents--wrapper">
     <h2 class="section-title">{{ T "article.relatedContents" }}</h2>
     <div class="related-contents">
-        <div class="flex article-list--tile">
+        <div class="h-entry flex article-list--tile">
             {{ range . }}
                 {{- /* YourOnly.One: changed
                     {{ partial "article-list/tile" (dict "context" . "size" "250x150" "Type" "articleList") }}
@@ -15,10 +15,10 @@
                 {{ with .Params.images }}
                     {{ $imageFirst = index . 0 | absURL }}
                 {{ end }}
-                <article class="{{ if $imageFirst }}has-image{{ end }}" data-clarity-region="article">
+                <article class="e-content{{ if $imageFirst }} has-image{{ end }}">
                     <a href="{{ .RelPermalink }}">
                         <div class="article-image">
-                            <img src="{{ $imageFirst }}" loading="lazy" data-key="{{ .Slug }}" data-hash="{{ $imageFirst }}"/>
+                            <img src="{{ $imageFirst }}" loading="lazy" data-key="{{ .Slug }}" data-hash="{{ $imageFirst }}" class="u-featured" />
                         </div>
                     </a>
                 </article>

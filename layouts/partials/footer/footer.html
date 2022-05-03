@@ -17,20 +17,20 @@
             {{- end }}
         <!-- END: YourOnly.One Footer-01 -->
         <p class="txt_center">
-            <a href="https://github.com/CaiJimmy/hugo-theme-stack" rel="noopener external nofollow">Stack</a> {{ i18n "themeby" }} <a href="https://github.com/CaiJimmy" rel="noopener external nofollow">Jimmy Cai</a>
+            <a href="https://github.com/CaiJimmy/hugo-theme-stack" rel="noopener external">Stack</a> {{ i18n "themeby" }} <a href="https://github.com/CaiJimmy" rel="noopener external">Jimmy Cai</a>
         </p>
 
         {{- /* YourOnly.One: disabled
-        {{ with .Site.Params.footer.customText }}
-            {{ . | safeHTML }} <br/>
-        {{ end }}
+            {{ with .Site.Params.footer.customText }}
+                {{ . | safeHTML }} <br/>
+            {{ end }}
 
-        {{- $Generator := `<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>` -}}
-        {{- $Theme := printf `<b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="%s">Stack</a></b>` $ThemeVersion -}}
-        {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}}
+            {{- $Generator := `<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>` -}}
+            {{- $Theme := printf `<b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="%s">Stack</a></b>` $ThemeVersion -}}
+            {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}}
 
-        {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
-        {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
+            {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
+            {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
         */ -}}
     </section>
 </footer>

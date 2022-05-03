@@ -10,4 +10,8 @@
         {{- $content := replace .Content $inserthere $joined 1 -}}
         {{ $content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML }}
     {{- /* END: YourOnly.One: changed */ -}}
+
+    {{ with .Params.syndications }}
+        {{ partial "syndications.html" . }}
+    {{ end }}
 </section>

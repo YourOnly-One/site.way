@@ -1,4 +1,7 @@
 <section class="e-content article-content">
+    {{/* BGN: Badges */}}
+    {{ partial "badges.html" . }}
+    {{/* END: Badges */}}
     <!-- Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 -->
     {{ $wrappedTable := printf "<div class=\"table-wrapper\">${1}</div>" }}
     {{- /* BGN: YourOnly.One: changed */ -}}

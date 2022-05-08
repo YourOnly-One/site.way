@@ -2,10 +2,7 @@
 mainSections = ["blog", "posts"]                                             # Hugo default
 mainTypes = ["article", "sitepage", "review"]                                                # YourOnly.One
 
-subdir = "way"
 rssfull = "true"
-faviconcache = "fmgy"
-faviconbuster = "TimmieIsMyFate"
 jquerycdn = false
 websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfeedr.com/", "https://pubsubhubbub.superfeedr.com/", "https://websubhub.com/hub"]
 

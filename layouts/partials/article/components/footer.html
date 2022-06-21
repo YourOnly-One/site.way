@@ -9,7 +9,7 @@
     </section>
     {{ end }}
 
-    {{- if ne .Lastmod .Date -}}
+    {{- if ne .Lastmod .PublishDate -}}
     <section class="article-lastmod">
         {{ partial "helper/icon" "clock" }}
         {{/* YourOnly.One: changed */}}

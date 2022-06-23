@@ -2,18 +2,22 @@
 
 #[en]
   #languageName = "English"
-  #languageFlag = "🇬🇧"
+  #languageFlag = "🇬🇧" # custom
   #languageCode = "en"
-  #languageCodeCountry = "DO_NOT_USE"
+  #languageCodeCountry = "DO_NOT_USE"  # custom
   #timeZone = "Etc/UTC"
+  #tzOffset = "0h" # custom
+  #tzAbbr = "UTC"  # custom
   #weight = 110
 
 [en-ph]
   languageName = "English (PH)"
-  languageFlag = "🇵🇭"
+  languageFlag = "🇵🇭" # custom
   languageCode = "en-PH"
-  languageCodeCountry = "ph"
+  languageCodeCountry = "ph"  # custom
   timeZone = "Asia/Manila"
+  tzOffset = "8h" # custom
+  tzAbbr = "PHT"  # custom
   weight = 111
   #[[en-ph.menu.main]]
     #name              = "Home"
@@ -26,10 +30,12 @@
 
 #[fil]
   #languageName = "Filipino"
-  #languageFlag = "🇵🇭"
+  #languageFlag = "🇵🇭" # custom
   #languageCode = "fil"
-  #languageCodeCountry = "ph"
+  #languageCodeCountry = "ph"  # custom
   #timeZone = "Asia/Manila"
+  #tzOffset = "8h" # custom
+  #tzAbbr = "PHT"  # custom
   #weight = 120
   #title = ""
   #[fil.params]
@@ -37,10 +43,12 @@
 
 #[tl-tglg]
   #languageName = "Tagalog Baybayin"
-  #languageFlag = "🇵🇭"
+  #languageFlag = "🇵🇭" # custom
   #languageCode = "tl-Tglg"
-  #languageCodeCountry = "ph"
+  #languageCodeCountry = "ph"  # custom
   #timeZone = "Asia/Manila"
+  #tzOffset = "8h" # custom
+  #tzAbbr = "PHT"  # custom
   #weight = 121
   #title = ""
   #[tl.tglg.params]
@@ -48,10 +56,12 @@
 
 #[zh-hant]
   #languageName = "中文（繁體）"
-  #languageFlag = "🇨🇳"
+  #languageFlag = "🇨🇳" # custom
   #languageCode = "zh-Hant"
-  #languageCodeCountry = "cn"
+  #languageCodeCountry = "cn"  # custom
   #timeZone = "Asia/Shanghai"
+  #tzOffset = "8h" # custom
+  #tzAbbr = "CST"  # custom
   #weight = 130
   #title = ""
   #[zh-hant.params]
@@ -59,10 +69,12 @@
 
 #[zh-hans]
   #languageName = "中文（简体）"
-  #languageFlag = "🇨🇳"
+  #languageFlag = "🇨🇳" # custom
   #languageCode = "zh-Hans"
-  #languageCodeCountry = "cn"
+  #languageCodeCountry = "cn"  # custom
   #timeZone = "Asia/Shanghai"
+  #tzOffset = "8h" # custom
+  #tzAbbr = "CST"  # custom
   #weight = 131
   #title = ""
   #[zh-hans.params]
@@ -70,10 +82,12 @@
 
 [ja]
   languageName = "日本語"
-  languageFlag = "🇯🇵"
+  languageFlag = "🇯🇵" # custom
   languageCode = "ja"
-  languageCodeCountry = "jp"
+  languageCodeCountry = "jp"  # custom
   timeZone = "Asia/Tokyo"
+  tzOffset = "9h" # custom
+  tzAbbr = "JST"  # custom
   weight = 140
   title = ""
   [ja.params]
@@ -81,10 +95,12 @@
 
 [ko]
   languageName = "한국어"
-  languageFlag = "🇰🇷"
+  languageFlag = "🇰🇷" # custom
   languageCode = "ko"
-  languageCodeCountry = "kr"
+  languageCodeCountry = "kr"  # custom
   timeZone = "Asia/Seoul"
+  tzOffset = "9h" # custom
+  tzAbbr = "KST"  # custom; 한국시간
   weight = 150
   title = ""
   [ko.params]

@@ -8,7 +8,7 @@
             </h2>
             <footer class="article-time">
                 {{/* YourOnly.One: changed */}}
-                {{ if not .PublishDate.IsZero }}<time datetime="{{ .PublishDate.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-published">{{ time.Format $datetimeformat .PublishDate }}</time>{{ end }}
+                {{ if not .PublishDate.IsZero }}<time datetime="{{ .PublishDate.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-published">{{ time.Format $datetimeformat (.PublishDate.UTC.Add (time.ParseDuration $.Site.Language.Params.tzOffset)) }} {{ $.Site.Language.Params.tzAbbr }}</time>{{ end }}
             </footer>
         </div>
 

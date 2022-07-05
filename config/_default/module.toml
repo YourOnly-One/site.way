@@ -1,7 +1,7 @@
 [hugoVersion]
   extended = true
   #max = ""
-  min = "0.97.0"
+  min = "0.101.0"
 
 [[imports]]
   disable = false                           # default: false
@@ -54,6 +54,15 @@
     #  target = "content"
     #  lang = "ko"
   # END: /way/ fill gaps content
+
+
+[[imports]]
+  path = "gitlab.com/youronlyone/images"
+  # BGN: /way/ images
+    [[imports.mounts]]
+      source = "way"
+      target = "assets/images"
+  # END: /way/ images
 
 
 # See: https://gohugo.io/hugo-modules/configuration/#module-config-mounts

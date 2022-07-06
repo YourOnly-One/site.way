@@ -95,7 +95,7 @@
   tzAbbr = "JST"                          # custom
   tzAbbrTitle = "Japan Standard Time"                        # custom
   weight = 140
-  title = ""
+  title = "一方向の信仰 🛐"
   [ja.params]
     description = "私たちは離れた経典を研究し、世代を超えて受け継がれてきた嘘から自分自身を解放することが何であれ、真実を受け入れます。"     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 
@@ -109,6 +109,6 @@
   tzAbbr = "KST"                          # custom
   tzAbbrTitle = "Korea Standard Time"                        # custom
   weight = 150
-  title = ""
+  title = "편도 신앙 🛐"
   [ko.params]
     description = "우리는 구별된 성경을 공부하고 대대로 전해 내려오는 거짓에서 벗어나기 위해 무엇이든지 진리를 받아들입니다."     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD

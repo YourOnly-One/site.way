@@ -33,7 +33,7 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 
 	[sidebar]
 		emoji = "🛐"
-		subtitle = "Be a Berean."
+		subtitle = "Be a Berean"
 		[sidebar.avatar]
 			enabled = true
 			local = false

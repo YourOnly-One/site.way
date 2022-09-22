@@ -21,8 +21,8 @@ other = "Back"
 [article.tableOfContents]
 other = "Table of contents"
 
-[article.relatedContents]
-other = "Related contents"
+[article.relatedContent]
+other = "Related content"
 
 [article.lastUpdatedOn]
 other = "Last updated on"

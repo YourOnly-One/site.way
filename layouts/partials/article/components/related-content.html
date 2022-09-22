@@ -1,9 +1,9 @@
 {{/* YourOnly.One: THIS SHOWS AT THE FOOTER OF EACH POST */}}
 {{ $related := (where (.Site.RegularPages.Related .) "Params.hidden" "!=" true) | first 5 }}
 {{ with $related }}
-<aside class="related-contents--wrapper">
-    <h2 class="section-title">{{ T "article.relatedContents" }}</h2>
-    <div class="related-contents">
+<aside class="related-content--wrapper">
+    <h2 class="section-title">{{ T "article.relatedContent" }}</h2>
+    <div class="related-content">
         <div class="flex article-list--tile">
             {{ range . }}
                 {{- /* YourOnly.One: changed

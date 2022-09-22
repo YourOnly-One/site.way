@@ -9,27 +9,27 @@ one = "1페이지"
 other = "{{ .Count }}페이지"
 
 [list.section]
-other = "부분"
+other = "섹션"
 
 [list.subsection]
-one = "일부"
-other = "일부"
+one = "서브섹션"
+other = "서브섹션"
 
 [article.back]
-other = "뒤"
+other = "뒤로가기"
 
 [article.tableOfContents]
 other = "목차"
 
-[article.relatedContents]
+[article.relatedContent]
 other = "관련 글"
 
 [article.lastUpdatedOn]
 other = "마지막 수정: "
 
 [article.readingTime]
-one = "1분 읽기"
-other = "{{ .Count }}분 읽기"
+one = "1분 정도"
+other = "{{ .Count }}분 정도"
 
 [notFound.title]
 other = "찾을 수 없음"
@@ -43,11 +43,11 @@ other = "보관함"
 [widget.archives.more]
 other = "더보기"
 
-[widget.tagCloud.title]
-other = "태그"
-
 [widget.categoriesCloud.title]
 other = "카테고리"
+
+[widget.tagCloud.title]
+other = "태그"
 
 [search.title]
 other = "검색"

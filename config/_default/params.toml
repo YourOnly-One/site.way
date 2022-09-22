@@ -32,6 +32,7 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
 		lastUpdated = "2006-01-02 15:04:05 MST"
 
 	[sidebar]
+		compact = false
 		emoji = "🛐"
 		subtitle = "Be a Berean"
 		[sidebar.avatar]

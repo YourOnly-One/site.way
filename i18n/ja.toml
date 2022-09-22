@@ -21,7 +21,7 @@ other = "前のページ"
 [article.tableOfContents]
 other = "目次"
 
-[article.relatedContents]
+[article.relatedContent]
 other = "関連するコンテンツ"
 
 [article.lastUpdatedOn]
@@ -61,4 +61,4 @@ other = "#PAGES_COUNT 件 （#TIME_SECONDS 秒）"
 other = "{{ .Generator }}で構築"
 
 [footer.designedBy]
-other = "{{ .DesignedBy }}がデザインしたテーマ{{ .Theme }}"
+other = "テーマ {{ .Theme }} は {{ .DesignedBy }} によって設計されています。"

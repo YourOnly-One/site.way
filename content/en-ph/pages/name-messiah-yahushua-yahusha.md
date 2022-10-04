@@ -67,7 +67,7 @@ icon = "infinity"
 </ul>
 
 <h3>Video: What is His Son's Name?</h3>
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/NcDOmOOQTtA" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/NcDOmOOQTtA" allowfullscreen="allowfullscreen"></iframe></div>
 
 <hr/>
 

@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{/* YourOnly.One: THIS SHOWS IN TAXONOMY TERM LISTS */}}
     <header>
         <h3 class="section-title">
             {{ if eq .Parent (.GetPage "/") }}
@@ -46,7 +47,7 @@
 
             {{ $title := .Title }}
             {{ with .Params.images }}
-                <div class="e-content article-image">
+                <div class="section-image e-content article-image">
                     <img src="{{ index . 0 | absURL }}" loading="lazy" class="u-featured" />
                 </div>
             {{ end }}

@@ -58,31 +58,54 @@ websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfee
   [[widgets.homepage]]
   type = "search"
 
-  [[widgets.homepage]]
-  type = "archives"
-    [widgets.homepage.params]
-    limit = "10"
+  #[[widgets.homepage]]
+  #type = "archives"
+  #  [widgets.homepage.params]
+  #  limit = "7"
 
   [[widgets.homepage]]
   type = "series"
     [widgets.homepage.params]
-    limit = "10"
+    limit = "7"
 
   [[widgets.homepage]]
   type = "categories"
     [widgets.homepage.params]
-    limit = "10"
+    limit = "7"
 
   [[widgets.homepage]]
   type = "tag-cloud"
     [widgets.homepage.params]
-    limit = "10"
+    limit = "7"
+
+  [[widgets.page]]
+  type = "search"
 
   [[widgets.page]]
   type = "toc"
 
   [[widgets.page]]
   type = "partofseries"
+
+  #[[widgets.page]]
+  #type = "archives"
+  #  [widgets.page.params]
+  #  limit = "7"
+
+  [[widgets.page]]
+  type = "series"
+    [widgets.page.params]
+    limit = "7"
+
+  [[widgets.page]]
+  type = "categories"
+    [widgets.page.params]
+    limit = "7"
+
+  [[widgets.page]]
+  type = "tag-cloud"
+    [widgets.page.params]
+    limit = "7"
 
   [colorScheme]
     toggle = false

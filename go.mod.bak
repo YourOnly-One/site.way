@@ -1,6 +1,6 @@
 module gitlab.com/youronlyone/site.way
 
-go 1.18
+go 1.19
 
 require (
 	github.com/techmagus/hugo-theme-stack/v3 main

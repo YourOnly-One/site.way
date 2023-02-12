@@ -2,8 +2,8 @@
 title = "Statement of Faith"
 #description = ""  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2011-01-27T03:27:17+08:00"                          # manually adjust to local timezone
-lastmod = "2011-01-27T03:27:17+08:00"                          # manually adjust to local timezone
+date = 2011-01-27T03:27:17+08:00                          # manually adjust to local timezone
+lastmod = 2011-01-27T03:27:17+08:00                          # manually adjust to local timezone
 
 aliases = ["/p/statement-of-faith.html"]
 slug = "Statement of Faith"

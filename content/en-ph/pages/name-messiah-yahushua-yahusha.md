@@ -2,8 +2,8 @@
 title = "Messiah's Name"
 #description = ""  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-04T03:27:17+08:00"                          # manually adjust to local timezone
-lastmod = "2016-02-04T03:27:17+08:00"                          # manually adjust to local timezone
+date = 2016-02-04T03:27:17+08:00                          # manually adjust to local timezone
+lastmod = 2016-02-04T03:27:17+08:00                          # manually adjust to local timezone
 
 aliases = ["/p/name-messiah-yahushua.html"]
 slug = "The Name of our Messiah is Yahushua"

@@ -1,21 +1,21 @@
 body {
-  font-family: var(--font-sans-yelosan, var(--font-hebrew-sans-yelosan, var(--font-baybayin-sans-yelosan, sans-serif)));
+  font-family: var(--font-sans-noto, var(--font-hebrew-sans-noto, var(--font-baybayin-sans-noto, sans-serif)));
 }
 pre {
-  font-family: var(--font-mono-yelosan, monospace);
+  font-family: var(--font-mono-noto, monospace);
 }
 code, kbd, samp {
-  font-family: var(--font-mono-yelosan, monospace);
+  font-family: var(--font-mono-noto, monospace);
 }
 .article-content {
-  font-family: var(--font-sans-yelosan, var(--font-hebrew-sans-yelosan, var(--font-baybayin-sans-yelosan, sans-serif)));
+  font-family: var(--font-sans-noto, var(--font-hebrew-sans-noto, var(--font-baybayin-sans-noto, sans-serif)));
 }
 
 .article-content code {
-  font-family: var(--font-mono-yelosan, monospace);
+  font-family: var(--font-mono-noto, monospace);
 }
 .article-content pre {
-  font-family: var(--font-mono-yelosan, monospace);
+  font-family: var(--font-mono-noto, monospace);
 }
 
 #webmentions {

@@ -1,114 +1,12 @@
-# See: https://gohugo.io/content-management/multilingual/#configure-languages
-
-#[en]
-  #languageName = "English"
-  #languageCode = "en"
-  #languageCodeCountry = "xx"              # custom
-  #languageFlag = "🇬🇧"                     # custom
-  #timeZone = "Etc/UTC"
-  #tzOffset = "12h"                        # custom
-  #tzAbbr = "UTC"                          # custom
-  #tzAbbrTitle = ""                        # custom
-  #weight = 110
-
-[en-ph]
-  languageName = "English (PH)"
-  languageCode = "en-PH"
-  languageCodeCountry = "ph"              # custom
-  languageFlag = "🇵🇭"                     # custom
-  timeZone = "Asia/Manila"
-  tzOffset = "8h"                        # custom
-  tzAbbr = "ACT"                          # custom
-  tzAbbrTitle = "Asean Common Time"                        # custom
-  weight = 111
-  #[[en-ph.menu.main]]
-    #name              = "Home"
-    #identifier        = "home"
-    #url               = "/"
-    #pre               = "home"
-    #weight            = 1
-    #[en-ph.menu.main.params]
-      #newTab = false
-
-#[fil]
-  #languageName = "Filipino"
-  #languageCode = "fil"
-  #languageCodeCountry = "ph"              # custom
-  #languageFlag = "🇵🇭"                     # custom
-  #timeZone = "Asia/Manila"
-  #tzOffset = "8h"                        # custom
-  #tzAbbr = "ACT"                          # custom
-  #tzAbbrTitle = "Asean Common Time"                        # custom
-  #weight = 120
-  #title = ""
-  #[fil.params]
-    #description = ""     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
-
-#[tl-tglg]
-  #languageName = "Tagalog Baybayin"
-  #languageCode = "tl-Tglg"
-  #languageCodeCountry = "ph"              # custom
-  #languageFlag = "🇵🇭"                     # custom
-  #timeZone = "Asia/Manila"
-  #tzOffset = "8h"                        # custom
-  #tzAbbr = "ACT"                          # custom
-  #tzAbbrTitle = "Asean Common Time"                        # custom
-  #title = ""
-  #[tl.tglg.params]
-    #description = ""     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
-
-#[zh-hant]
-  #languageName = "中文（繁體）"
-  #languageCode = "zh-Hant"
-  #languageCodeCountry = "cn"              # custom
-  #languageFlag = "🇨🇳"                     # custom
-  #timeZone = "Asia/Shanghai"
-  #tzOffset = "8h"                        # custom
-  #tzAbbr = "CST"                          # custom
-  #tzAbbrTitle = "China Standard Time"                        # custom
-  #weight = 130
-  #title = ""
-  #[zh-hant.params]
-    #description = ""     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
-
-#[zh-hans]
-  #languageName = "中文（简体）"
-  #languageCode = "zh-Hans"
-  #languageCodeCountry = "cn"              # custom
-  #languageFlag = "🇨🇳"                     # custom
-  #timeZone = "Asia/Shanghai"
-  #tzOffset = "8h"                        # custom
-  #tzAbbr = "CST"                          # custom
-  #tzAbbrTitle = "China Standard Time"                        # custom
-  #weight = 131
-  #title = ""
-  #[zh-hans.params]
-    #description = ""     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
+# See: https://gohugo.io/getting-started/configuration/#merge-configuration-from-themes
+_merge = "deep"
 
 [ja]
-  languageName = "日本語"
-  languageCode = "ja"
-  languageCodeCountry = "jp"              # custom
-  languageFlag = "🇯🇵"                     # custom
-  timeZone = "Asia/Tokyo"
-  tzOffset = "9h"                        # custom
-  tzAbbr = "JST"                          # custom
-  tzAbbrTitle = "Japan Standard Time"                        # custom
-  weight = 140
   title = "一方向の信仰 🛐"
   [ja.params]
     description = "私たちは離れた経典を研究し、世代を超えて受け継がれてきた嘘から自分自身を解放することが何であれ、真実を受け入れます。"     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 
 [ko]
-  languageName = "한국어"
-  languageCode = "ko"
-  languageCodeCountry = "kr"              # custom
-  languageFlag = "🇰🇷"                     # custom
-  timeZone = "Asia/Seoul"
-  tzOffset = "9h"                        # custom
-  tzAbbr = "KST"                          # custom
-  tzAbbrTitle = "Korea Standard Time"                        # custom
-  weight = 150
   title = "편도 신앙 🛐"
   [ko.params]
     description = "우리는 구별된 성경을 공부하고 대대로 전해 내려오는 거짓에서 벗어나기 위해 무엇이든지 진리를 받아들입니다."     # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD

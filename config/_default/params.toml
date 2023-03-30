@@ -1,21 +1,16 @@
+# See: https://gohugo.io/getting-started/configuration/#merge-configuration-from-themes
+_merge = "deep"
+
 # YourOnly.One: Do not use mainSections, it's conflicting with the hugo-theme-stack theme.
 mainSections = ["blog", "posts"]                                             # Hugo default
-mainTypes = ["article", "sitepage", "review"]                                                # YourOnly.One
-
-rssfull = true
-jquerycdn = false
-websubhubs = ["https://pubsubhubbub.appspot.com/", "https://youronlyone.superfeedr.com/", "https://pubsubhubbub.superfeedr.com/", "https://websubhub.com/hub"]
 
 favicon_mstilecolor = "#603cba"
 
 ### BGN: Structured Data ###
   siteStartYear = "2007"
-
   description = "We study the set-apart scripture and accept the truth whatever it might be to free ourselves from the lies that were passed down through generations."
-  license = "https://im.youronly.one/p/legal-notice/"
   keywords = ["YourOnly.One", "Yuki", "ᜌᜓᜃᜒ"] # Can be overriden per page
   images = ["https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp", "https://img.youronly.one/works/FlagMenorah-Paleo-(CC0).webp"]
-  #copyright = ""
 ### END: Structured Data ###
 
 ### BGN: Theme Settings ###
@@ -119,49 +114,17 @@ favicon_mstilecolor = "#603cba"
 
 ### BGN: Other Settings ###
   [semweb]
-    org = "yelosan"
-
-    #isni = ""
-    #issn = ""
-    acquirelicensepage = "https://im.youronly.one/p/legal-notice/"
-    copyrightnotice = "Copyleft 🄯 CC-BY-SA 4.0 International by JC John Sese Cuneta"
-    credittext = "I'M YourOnly.One (https://im.youronly.one/)"
     datecreated = "2007-04-06"
     isblog = true
-    license = "https://im.youronly.one/p/legal-notice/"
-    publisher = "https://yelosan.youronly.one/"
     sameas = [
-      "https://facebook.com/101597304949708/",
-      "https://facebook.com/yelosanpub/",
-      "https://codeberg.org/yelosan",
-      "https://gitlab.com/yelosan",
-      "https://github.com/yelosan"
+      "https://facebook.com/youronly.ONE.WAY",
+      "https://c.im/@YourOnlyOne",
+      "https://pixelfed.social/YourOnlyOne",
+      "https://hashi.icu/@YourOnlyOne",
+      "https://youtube.com/@YourOnlyOneOfcl",
+      "https://facebook.com/YourOnly.ONE.ofcl"
     ]
-
-    [[semweb.persons]]
-      person = "yuki"
-      #id = ""
-      #name = ""ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
-      #url = ""
-      #avatar = ""
-      #rel = "noopener external nofollow"
 
   [tools]
     #onesignal = "79058a23-5e2c-4862-926f-37d20de118e5"
-
-  [verify]
-    flattr = "4j1gl5"
-    naver = "0212955cb24d6e2c67f92be3c7833cae8a98fa8e"
-    wot = "06c7ef6e7986586661ef"
-    ocs = "c563648adcfa021a0dfd3d3d8f0be64a"
-    followit = "uYZyV7MVARnWg9phNgMQ"
-
-  [analytics]
-    cfwebanalytics = "07a05e5302d1458da3561ce41791e284"
-    #microanalyticsio = "ZwSg9rf6GA"
-    naver = "1375cb4224f1c40"   # https://youronly.one
-    #naver = "137a7c92882ac90"   # https://im.youronly.one
-    counterdev = "youronlyone"
-    swetrix = "bYdcXUajNvru"
-    #microsoftclarity = "63ddi0b99e"
 ### END: Other Settings ###

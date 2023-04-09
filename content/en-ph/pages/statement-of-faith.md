@@ -110,7 +110,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <h2>Detailed</h2>
 <h3>The Scripture is our final and sole authority</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
   </blockquote>
@@ -121,7 +121,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>Aluahim is ONE. There is NO other besides Him.</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"Hear, O Yisra'el: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is our Elohim; <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is one."</p>
   </blockquote>
@@ -132,7 +132,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>The Torah was NOT nailed on the cross</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Whatever thing I command you, that you shall guard to do: you shall not add to it, nor remove from it.</p>
   </blockquote>
@@ -142,7 +142,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>for I give you good teaching. Do not forsake my Torah.</p>
   </blockquote>
@@ -152,7 +152,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>If you love Me, you will guard My commands.</p>
   </blockquote>
@@ -162,7 +162,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>17</sup>"Do not think that I came to abolish the Torah or the Prophets; I did not come to abolish but to fulfill. <sup>18</sup>For truly I say to you, until heaven and earth pass away, not one yod or one stroke shall pass from the Torah until all is accomplished. <sup>19</sup>Whoever then annuls one of the least of these commands, and teaches others the same, shall be called least in the kingdom of the heavens; but whoever keeps and teaches, he shall be called great in the kingdom of the heavens.</p>
   </blockquote>
@@ -172,7 +172,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>20</sup>They, when they heard it, glorified Elohim. They said to him, "You see, brother, how many tens of thousands there are among the Yahudim of those who have believed, and they are all zealous for the Torah. <sup>21</sup>They have been informed about you, that you teach all the Yahudim who are among the nations to forsake Mosheh, telling them not to circumcise their children neither to walk after the customs. <sup>22</sup>What then? They will certainly hear that you have come.</p>
     <p><sup>23</sup>"Therefore do what we tell you. We have four men who have taken a vow. <sup>24</sup>Take them, and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk guarding the Torah. <sup>25</sup>But concerning the nations who believe, we have written our decision; they should guard themselves from <i>things</i> slaughtered to idols, from blood, from strangled things, and from whoring.</p>
@@ -184,7 +184,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Do we then nullify law through faith? May it never be! No, we establish law.</p>
   </blockquote>
@@ -194,7 +194,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>What shall we say then? Is the law sin? May it never be! However, I would not have known sin, except through the law. For I would not have known coveting, unless the law had said, "You shall not covet."</p>
   </blockquote>
@@ -204,7 +204,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Therefore the law indeed is set-apart, and the command set-apart, and righteous, and good.</p>
   </blockquote>
@@ -214,7 +214,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Everyone practicing sin also practices lawlessness, and sin is lawlessness.</p>
   </blockquote>
@@ -224,7 +224,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>3</sup>For this is loving Elohim, that we guard His commands, and His commands are not burdensome. <sup>4</sup>For all that is brought forth of Elohim overcomes the world. This is the victory that has overcome the world: our faith.</p>
   </blockquote>
@@ -235,7 +235,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>The 7th Day Sabbath is an everlasting covenant. The identity of His true children.</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>So the children of Yisra'el shall guard the Sabbath, to celebrate the Sabbath throughout their generations as a perpetual covenant.</p>
   </blockquote>
@@ -245,7 +245,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>2</sup>And in the seventh day Elohim completed His work which He had done, and He ceased on the seventh day from all His work which He had done. <sup>3</sup>Then Elohim blessed the seventh day and set it apart, because in it He ceased from all His work which Elohim, in creating, had made.</p>
   </blockquote>
@@ -255,7 +255,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>13</sup>"If you turn away your foot from the Sabbath, from doing your pleasure on My set-apart day; and call the Sabbath a delight, <i>and</i> the set-apart of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking <i>your own</i> words: <sup>14</sup>then you shall delight yourself in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Ya'aqov your father:" for the mouth of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> has spoken it.</p>
   </blockquote>
@@ -265,7 +265,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"For the Son of Man is Master of the Sabbath."</p>
   </blockquote>
@@ -275,7 +275,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>For whoever guards the whole law, and yet stumbles in one point, he has become guilty of all.</p>
   </blockquote>
@@ -286,7 +286,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהוה</bdi>) (YAHUAH/YaHuWaH) never changes and is eternal.</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"For I, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, do not change; therefore you, sons of Ya'aqov, are not consumed."</p>
   </blockquote>
@@ -296,7 +296,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> Messiah is the same yesterday, today, and to the ages.</p>
   </blockquote>
@@ -306,7 +306,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"For truly I say to you, until heaven and earth pass away, not one yod or one stroke shall pass from the Torah until all is accomplished."</p>
   </blockquote>
@@ -316,7 +316,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"Heaven and earth will pass away, but My words will not pass away."</p>
   </blockquote>
@@ -327,7 +327,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>The Great Commission</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>[<sup>19</sup>"Having gone, therefore, make <abbr class="popper animate" data-popper="disciples">talmidim</abbr> of all the nations, immersing them in the Name of the Father and the Son and the Set-apart Ruah, <sup>20</sup>teaching them to guard all that I commanded you; and behold, I am with you always, even to the completion of the age."]</p>
   </blockquote>
@@ -338,7 +338,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>The Gospel; Keys to Salvation; and Baptism</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Kepha said to them, "Repent, and be immersed, every one of you, in the Name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> Messiah for the forgiveness of your sins, and you will receive the gift of the Set-apart Ruah."</p>
   </blockquote>
@@ -348,7 +348,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>1</sup>Now I declare to you, brothers, the good news which I proclaimed to you, which also you received, in which you also stand, <sup>2</sup>by which also you are being saved, if you hold firmly the word which I proclaimed to you—unless you believed in vain. <sup>3</sup>For I delivered to you first of all that which I also received: that Messiah died for our sins according to the Scriptures, <sup>4</sup>that He was buried, that He was raised on the third day according to the Scriptures.</p>
   </blockquote>
@@ -359,7 +359,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהושוע</bdi>) (Yahushua) is the ONE and ONLY Messiah of Israel and the world</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>12</sup>But as many as received Him, to them He gave the authority to become children of Elohim, to those believing in His Name: <sup>13</sup>who have not been born of blood, nor of the will of the flesh, nor of the will of man, but of Elohim. <sup>14</sup>And the Word became flesh, and tabernacled among us. We saw His glory, glory as of an only begotten with a father, full of favor and truth.</p>
   </blockquote>
@@ -373,14 +373,14 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <p>Read: Yashayahu (Isaiah) 53.</p>
 
 <!--
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <figcaption class="attribution_name txt_right">
     <p><cite>Yashayahu (Isaiah) 53</cite></p>
   </figcaption>
 </figure>
 -->
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>9</sup>that if you will confess with your mouth that <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master, and believe in your heart that Elohim raised Him from the dead, you will be saved. <sup>10</sup>For <i>in</i> the heart man believes unto righteousness; and <i>in</i> the mouth is confession unto salvation. <sup>11</sup>For the Scripture says, "Whoever believes in Him will not be disappointed."</p>
   </blockquote>
@@ -390,7 +390,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Purge out the old leaven, that you may be a new lump, even as you are unleavened. For indeed Messiah, our Pesah, has been slaughtered [in our place].</p>
   </blockquote>
@@ -401,7 +401,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>The Renewed/New Covenant in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) the Messiah</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>31</sup>"Behold, the days come," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, "that I will cut a new covenant with the house of Yisra'el, and with the house of Yahudah: <sup>32</sup>not according to the covenant that I cut with their fathers in the day that I took them by the hand to bring them out of the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr>; which covenant of Mine they broke, although I was an owner to them," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>.</p>
     <p><sup>33</sup>"But this is the covenant that I will cut with the house of Yisra'el after those days," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: I will put My Torah in their inward parts, and I will write it in their heart. I will be their Elohim, and they shall be My people. <sup>34</sup>They will no longer each teach his neighbor, and every man teach his brother, saying, 'Know <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>;' for they will all know Me, from their least to their greatest," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: "for I will forgive their iniquity, and I will remember their sin no more."</p>
@@ -412,7 +412,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"'I will not hide My face from them anymore; for I have poured out My Ruah on the house of Yisra'el,' says Adonai <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>."</p>
   </blockquote>
@@ -423,7 +423,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>Gifts of the Set-apart Ruah</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"If you then, being wicked, know how to give good gifts to your children, how much more will your heavenly Father give the Set-apart Ruah to those who ask him?"</p>
   </blockquote>
@@ -433,7 +433,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>4</sup>Being assembled together with them, He commanded them, "Do not depart from Yerushalayim, but wait for the promise of the Father, which you heard from Me. <sup>5</sup>For Yahuhanan indeed immersed in water, but you will be immersed in the Set-apart Ruah not many days from now."</p>
   </blockquote>
@@ -443,7 +443,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>They were all filled with the Set-apart Ruah, and began to speak other languages, as the Ruah gave them the ability to speak.</p>
   </blockquote>
@@ -453,7 +453,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"We are witnesses of these things; and so also is the Set-apart Ruah, whom Elohim has given to those who obey Him."</p>
   </blockquote>
@@ -463,7 +463,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>1</sup>Now concerning spiritual things, brothers, I do not want you to be ignorant. <sup>2</sup>You know that when you were heathen, you were led away to those mute idols, however you might be led. <sup>3</sup>Therefore I make known to you that no man speaking by the Ruah of Elohim says, "<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is accursed." No one can say, "<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master," but by the Set-apart Ruah. <sup>4</sup>Now there are various kinds of gifts, but the same Ruah.</p>
     <p><sup>5</sup>There are various kinds of service, and the same Master. <sup>6</sup>There are various kinds of workings, but the same Elohim, who works all things in all. <sup>7</sup>But to each one is given the manifestation of the Ruah for the profit of all. <sup>8</sup>For to one is given through the Ruah the word of wisdom, and to another the word of knowledge, according to the same Ruah; <sup>9</sup>to another faith, by the same Ruah; and to another gifts of healings, by the one Ruah; <sup>10</sup>and to another workings of miracles; and to another prophecy; and to another discerning of spirits; to another different kinds of languages; and to another the interpretation of languages. <sup>11</sup>But the one and the same Ruah produces all of these, distributing to each one separately as He desires.</p>
@@ -475,7 +475,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>In Him you also, having heard the word of the truth, the good news of your salvation—-in whom, having also believed, you were sealed with the promised Set-apart Ruah.</p>
   </blockquote>
@@ -486,7 +486,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>Faith without works is dead</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>14</sup>What good is it, my brothers, if a man says he has faith, but has no works? Can that faith save him? <sup>15</sup>If a brother or sister is naked and lacking of daily food, <sup>16</sup>and one of you tells them, "Go in peace, be warmed and filled"; and yet you did not give them the things the body needs, what good is it? <sup>17</sup>Even so faith, if it has no works, is dead in itself. <sup>18</sup>Yes, a man will say, "You have faith, and I have works." Show me your faith without the works, and I will show you the faith from my works.</p>
     <p><sup>19</sup>You believe there is one Elohim. You do well. The demons also believe, and shudder. <sup>20</sup>But do you want to know, vain man, that faith apart from works is dead? <sup>21</sup>Was Avraham our father not declared right from works, in that he offered up Yitshaq his son on the altar? <sup>22</sup>You see that faith worked with his works, and from works faith was perfected; <sup>23</sup>and the Scripture was fulfilled which says, "Avraham believed Elohim, and it was accounted to him as righteousness;" and he was called the friend of Elohim. <sup>24</sup>You see then that from works a man is declared right, and not only from faith. <sup>25</sup>In the same way, was Rahav the whore not also declared right from works, in that she received the messengers, and sent them out another way? <sup>26</sup>For as the body apart from the spirit is dead, even so faith apart from works is dead.</p>
@@ -498,7 +498,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h3>The Fruit of the Set-apart Ruah</h3>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>22</sup>But the fruit of the Ruah is love, joy, peace, patience, kindness, goodness, faith, <sup>23</sup>gentleness, and self-control. Against such things there is no law.</p>
   </blockquote>
@@ -512,14 +512,14 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <p>Read: Vayiqra (Leviticus) 23.</p>
 
 <!--
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <figcaption class="attribution_name txt_right">
     <p><cite>Vayiqra (Leviticus) 23</cite></p>
   </figcaption>
 </figure>
 -->
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"'and you shall be to Me a kingdom of priests and a set-apart nation.' These are the words that you shall speak to the children of Yisra'el."</p>
   </blockquote>
@@ -529,7 +529,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>"I also say to you that you are <abbr class="popper animate" data-popper="small stone">petros</abbr>, and upon this <abbr class="popper animate" data-popper="great rock">Petra</abbr> I will build My assembly; and the gates of Sheol will not overpower it.</p>
   </blockquote>
@@ -539,7 +539,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>But you are a chosen people, a royal priesthood, a set-apart nation, a people for the possession of Elohim, that you may proclaim the excellence of Him who called you out of darkness into His marvelous light.</p>
   </blockquote>
@@ -551,7 +551,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <h3>Salvation comes by Obeying His Torah and is NOT a one-time seal. We need to be:</h3>
 <h4>Full of love and care for everyone by bringing the Gospel to the world</h4>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>34</sup>"A renewed command I give to you, that you love one another. Just as I have loved you, you also love one another. <sup>35</sup>By this everyone will know that you are My <abbr class="popper animate" data-popper="disciples">talmidim</abbr>, if you have love for one another."</p>
   </blockquote>
@@ -561,7 +561,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>For I am not ashamed of the good news, because it is the power of Elohim for salvation for everyone who believes; for the Yahudite first, and also for the Greek.</p>
   </blockquote>
@@ -572,7 +572,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h4>Clean, inside and out</h4>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>Create in me a clean heart, O Elohim. Renew a right spirit within me.</p>
   </blockquote>
@@ -582,7 +582,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>For Elohim called us not for uncleanness, but in setting apart.</p>
   </blockquote>
@@ -593,7 +593,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h4>Mature in Faith</h4>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>until we all attain to the unity of the faith, and of the knowledge of the Son of Elohim, to a full grown man, to the measure of the stature of the fullness of Messiah;</p>
   </blockquote>
@@ -604,7 +604,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h4>Righteous</h4>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>instructing us to the intent that, denying wickedness and worldly lusts, we would live soberly, righteously, and devoutly in this present age;</p>
   </blockquote>
@@ -615,7 +615,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 </figure>
 
 <h4>Set-apart</h4>
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p><sup>44</sup> "'For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> your Elohim. Set yourselves apart therefore, and be set-apart, for I am set-apart. And you shall not make yourselves unclean with any of the swarming things that swarm on the earth. <sup>45</sup> For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> who brought you up from the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr> to be your Elohim; thus you shall be set-apart, for I am set-apart.'"</p>
   </blockquote>
@@ -625,7 +625,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
   </figcaption>
 </figure>
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
     <p>that He might present the assembly to Himself gloriously, not having spot or wrinkle or any such thing; but that it should be set-apart and without defect.</p>
   </blockquote>
@@ -639,7 +639,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <p>Read: Revelation 19-22.</p>
 
 <!--
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
+<figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <figcaption class="attribution_name txt_right">
     <p><cite>Revelation 19-22</cite></p>
   </figcaption>

@@ -30,30 +30,30 @@ workspace = "off"
   path = "codeberg.org/youronlyone/content"
   # BGN: /way/ content
     #[[imports.mounts]]
-    #  source = "way/en-ph"
+    #  source = "content/way/en-ph"
     #  target = "content"
     #  lang = "en"
     [[imports.mounts]]
-      source = "way/en-ph"
+      source = "content/way/en-ph"
       target = "content"
       lang = "en-ph"
     [[imports.mounts]]
-      source = "way/ja"
+      source = "content/way/ja"
       target = "content"
       lang = "ja"
     [[imports.mounts]]
-      source = "way/ko"
+      source = "content/way/ko"
       target = "content"
       lang = "ko"
   # END: /way/ content
 
   # BGN: /way/ fill gaps content
     #[[imports.mounts]]
-    #  source = "way/en-ph"
+    #  source = "content/way/en-ph"
     #  target = "content"
     #  lang = "ja"
     #[[imports.mounts]]
-    #  source = "way/en-ph"
+    #  source = "content/way/en-ph"
     #  target = "content"
     #  lang = "ko"
   # END: /way/ fill gaps content

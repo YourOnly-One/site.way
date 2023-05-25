@@ -13,7 +13,7 @@
     <section class="article-lastmod">
         {{ partial "helper/icon" "clock" }}
         {{/* YourOnly.One: changed */}}
-        {{ if not .Lastmod.IsZero }}<time datetime="{{ .Lastmod.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-updated">{{ time.Format $datetimeformat (.Lastmod.UTC.Add (time.ParseDuration $.Site.Language.Params.tzOffset)) }} <abbr{{ with $.Site.Language.Params.tzAbbrTitle }} title="{{ printf "%s" . }}"{{ end }}>{{ $.Site.Language.Params.tzAbbr }}</abbr></time>{{ end }}
+        {{ if not .Lastmod.IsZero }}<time datetime="{{ .Lastmod.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-updated">{{ time.Format $datetimeformat (.Lastmod.UTC.Add (time.ParseDuration .Site.Params.tzOffset)) }} <abbr{{ with .Site.Params.tzAbbrTitle }} title="{{ printf "%s" . }}"{{ end }}>{{ .Site.Params.tzAbbr }}</abbr></time>{{ end }}
     </section>
     {{- end -}}
 </footer>

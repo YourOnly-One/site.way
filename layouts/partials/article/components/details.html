@@ -38,7 +38,7 @@
                         {{- .Date.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}
                     </time>
                 */ -}}
-                {{ if not .PublishDate.IsZero }}<time datetime="{{ .PublishDate.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-published article-time--published">{{ time.Format $datetimeformat (.PublishDate.UTC.Add (time.ParseDuration $.Site.Language.Params.tzOffset)) }} <abbr{{ with $.Site.Language.Params.tzAbbrTitle }} title="{{ printf "%s" . }}"{{ end }}>{{ $.Site.Language.Params.tzAbbr }}</abbr></time>{{ end }}
+                {{ if not .PublishDate.IsZero }}<time datetime="{{ .PublishDate.UTC.Format "2006-01-02T15:04:05Z07:00" }}" class="dt-published article-time--published">{{ time.Format $datetimeformat (.PublishDate.UTC.Add (time.ParseDuration .Site.Params.tzOffset)) }} <abbr{{ with .Site.Params.tzAbbrTitle }} title="{{ printf "%s" . }}"{{ end }}>{{ .Site.Params.tzAbbr }}</abbr></time>{{ end }}
             </div>
         {{ end }}
 

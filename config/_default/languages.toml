@@ -1,6 +1,8 @@
 # See: https://gohugo.io/getting-started/configuration/#merge-configuration-from-themes
 _merge = "deep"
 
+[en-ph]
+
 [ja]
   title = "一方向の信仰 🛐"
   [ja.params]

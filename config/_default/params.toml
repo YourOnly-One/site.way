@@ -6,6 +6,8 @@ mainSections = ["blog", "posts"]                                             # H
 
 favicon_mstilecolor = "#603cba"
 
+disqusShortname = "youronlyone"
+
 ### BGN: Structured Data ###
   siteStartYear = "2007"
   description = "We study the set-apart scripture and accept the truth whatever it might be to free ourselves from the lies that were passed down through generations."

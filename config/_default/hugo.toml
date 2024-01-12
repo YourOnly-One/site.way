@@ -29,7 +29,6 @@
   #timeout = "30s"                                           # default: 30s
 
   #### Other settings ####
-    disqusShortname = "youronlyone"                                    # .Site.DisqusShortname
 
 
 #######  #######  #######  #######  #######  #######  #######  #######

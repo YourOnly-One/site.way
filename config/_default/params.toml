@@ -6,8 +6,6 @@ mainSections = ["blog", "posts"]                                             # H
 
 favicon_mstilecolor = "#603cba"
 
-disqusShortname = "youronlyone"
-
 ### BGN: Structured Data ###
   siteStartYear = "2007"
   description = "We study the set-apart scripture and accept the truth whatever it might be to free ourselves from the lies that were passed down through generations."
@@ -119,12 +117,12 @@ disqusShortname = "youronlyone"
     datecreated = "2007-04-06"
     isblog = true
     sameas = [
-      "https://facebook.com/youronly.ONE.WAY",
+      "https://www.facebook.com/youronly.ONE.WAY",
       "https://c.im/@YourOnlyOne",
       "https://pixelfed.social/YourOnlyOne",
       "https://hashi.icu/@YourOnlyOne",
-      "https://youtube.com/@YourOnlyOneOfcl",
-      "https://facebook.com/YourOnly.ONE.ofcl"
+      "https://www.youtube.com/@YourOnlyOneOfcl",
+      "https://www.facebook.com/YourOnly.ONE.ofcl"
     ]
 
   [tools]

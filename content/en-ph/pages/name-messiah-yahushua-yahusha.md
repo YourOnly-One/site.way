@@ -74,7 +74,7 @@ icon = "infinity"
 <div class="header_attribution">
   <footer class="attribution_copyright">
     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-      <small>Cover image: "<a href="https://4.bp.blogspot.com/--GxZA64O0cU/Xc-ZU881_iI/AAAAAAAAeiE/jTpamqrVP5UYL1UIlTMm8Ze_k3pcmXzWgCPcBGAYYCw/s1600/Yahushua-infographic-CC_BY-SA_4.0_International_by_1way.faith.jpg" rel="dct:title noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">The Messiah's Proper Name is Yahushua</a>" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukia Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
+      <small>Cover image: "<a href="https://4.bp.blogspot.com/--GxZA64O0cU/Xc-ZU881_iI/AAAAAAAAeiE/jTpamqrVP5UYL1UIlTMm8Ze_k3pcmXzWgCPcBGAYYCw/s1600/Yahushua-infographic-CC_BY-SA_4.0_International_by_1way.faith.jpg" rel="dct:title noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">The Messiah's Proper Name is Yahushua</a>" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukiya Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
     </p>
   </footer>
 </div>

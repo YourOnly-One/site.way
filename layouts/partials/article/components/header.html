@@ -4,7 +4,7 @@
     {{- /* YourOnly.One: changed
         {{ if $image.exists }}
             <div class="article-image">
-                <a href="{{ .RelPermalink }}">
+                <a href="{{ .Permalink }}">
                     {{ if $image.resource }}
                         {{- $Permalink := $image.resource.RelPermalink -}}
                         {{- $Width := $image.resource.Width -}}

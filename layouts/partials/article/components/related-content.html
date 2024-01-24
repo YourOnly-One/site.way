@@ -16,7 +16,7 @@
                     {{ $imageFirst = index . 0 | absURL }}
                 {{ end }}
                 <article class="{{ if $imageFirst }} has-image{{ end }}">
-                    <a href="{{ .RelPermalink }}">
+                    <a href="{{ .Permalink }}">
                         <div class="article-image">
                             <img src="{{ $imageFirst }}" loading="lazy" data-key="{{ .Slug }}" data-hash="{{ $imageFirst }}" />
                         </div>

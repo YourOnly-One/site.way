@@ -20,7 +20,7 @@
                     {{ end }}
 
                     <article class="h-entry{{ if $imageFirst }} has-image{{ end }}">
-                        <a href="{{ .RelPermalink }}" class="u-url" rel="bookmark">
+                        <a href="{{ .Permalink }}" class="u-url" rel="bookmark">
                             <div class="e-content article-image">
                                 <img src="{{ $imageFirst }}" loading="lazy" data-key="{{ .Slug }}" data-hash="{{ $imageFirst }}" alt="Featured image of post {{ $.Title }}" class="u-featured" />
                             </div>

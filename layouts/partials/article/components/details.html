@@ -3,7 +3,7 @@
     {{ if .Params.categories }}
     <header class="article-category">
         {{ range (.GetTerms "categories") }}
-            <a href="{{ .RelPermalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }} class="p-category" rel="category">
+            <a href="{{ .Permalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }} class="p-category" rel="category">
                 {{ .LinkTitle }}
             </a>
         {{ end }}
@@ -12,7 +12,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="p-name article-title">
-            <a href="{{ .RelPermalink }}" class="u-url" rel="bookmark">
+            <a href="{{ .Permalink }}" class="u-url" rel="bookmark">
                 {{- .Title -}}
             </a>
         </h2>

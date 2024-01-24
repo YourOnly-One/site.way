@@ -10,12 +10,12 @@
         {{- /* BGN: YourOnly.One Content-PartOf */ -}}
             {{- $partofseries := $.Site.RegularPages.RelatedIndices . "series" -}}
             {{- with $partofseries -}}
-                <aside class="partofseries">
+                <aside class="h-series partofseries">
                     <p>
-                        {{ i18n "partofseries" }} {{ range ( $.GetTerms "series" ) }}<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ end }}
+                        {{ i18n "partofseries" }} {{ range ( $.GetTerms "series" ) }}<a href="{{ .Permalink }}" class="u-series-url p-series-name">{{ .LinkTitle }}</a>{{ end }}
                     </p>
                     <ul>
-                        {{ range .Reverse }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                        {{ range .Reverse }}<li><a href="{{ .Permalink }}" class="u-series-also p-series-also ">{{ .Title }}</a></li>{{ end }}
                     </ul>
                 </aside>
             {{- end -}}

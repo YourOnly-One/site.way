@@ -6,13 +6,12 @@ other = "ダークモード"
 
 [list.page]
 one = "1ページ"
-other = "{{ .Count }}ページ"
+other = "{{ .Count }}ページ目"
 
 [list.section]
-other = "章"
+other = "セクション"
 
 [list.subsection]
-one = "サブセクション"
 other = "サブセクション"
 
 [article.back]
@@ -31,7 +30,7 @@ other = "最終更新"
 other = "読了時間: {{ .Count }}分"
 
 [notFound.title]
-other = "404お探しのページが見つかりませんでした"
+other = "404 Not Found"
 
 [notFound.subtitle]
 other = "指定されたページは存在しません。"
@@ -58,7 +57,7 @@ other = "入力..."
 other = "#PAGES_COUNT 件 （#TIME_SECONDS 秒）"
 
 [footer.builtWith]
-other = "{{ .Generator }}で構築"
+other = "{{ .Generator }}で構築されています。"
 
 [footer.designedBy]
 other = "テーマ {{ .Theme }} は {{ .DesignedBy }} によって設計されています。"

@@ -5,9 +5,9 @@
 <!-- END: YourOnly.One Head-01-Top -->
 
 {{- $description := partialCached "data/description" . .RelPermalink -}}
-<meta name='description' content='{{ $description }}' class="p-summary">
+<meta name='description' {{ printf "content=%q" $description | safeHTMLAttr }} class="p-summary">
 
-{{- $title := partialCached "data/title" . .RelPermalink -}}
+{{- $title := partial "data/title" . -}}
 <title class="p-name">{{ $title }}</title>
 
 {{- /* YourOnly.One: We already have this
@@ -23,7 +23,7 @@
 {{- end -}}
 
 {{ with .Site.Params.favicon }}
-    <link rel="shortcut icon" href="{{ . }}" />
+    <link rel="shortcut icon" href="{{ . | relURL }}" />
 {{ end }}
 
 {{- template "_internal/google_analytics.html" . -}}

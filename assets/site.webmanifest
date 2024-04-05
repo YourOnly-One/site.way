@@ -1,8 +1,8 @@
 {{- $androidchrome192png := resources.Get "favicon/android-chrome-192x192.png" | resources.Fingerprint "sha384" -}}
 {{- $androidchrome512png := resources.Get "favicon/android-chrome-512x512.png" | resources.Fingerprint "sha384" -}}
 {
-  "name": "One Way Faith 🛐",
-  "short_name": "One Way 🛐",
+  "name": "One Way Faith",
+  "short_name": "One Way",
   "description": "We study the set-apart scripture and accept the truth whatever it might be to free ourselves from the lies that were passed down through generations.",
   "id": "/way/",
   "dir": "auto",

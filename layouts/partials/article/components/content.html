@@ -14,7 +14,7 @@
         {{ $content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML }}
     {{- /* END: YourOnly.One: changed */ -}}
 
-    {{ with .Params.syndications }}
-        {{ partial "syndications.html" . }}
+    {{ with .Params.syndication }}
+        {{ partial "syndication.html" . }}
     {{ end }}
 </section>

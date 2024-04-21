@@ -17,7 +17,6 @@
 ####### LANGUAGE #######
   languageCode = "en-ph"
   defaultContentLanguage = "en-ph"                             # default: en
-  defaultContentLanguageInSubdir = false                   # default: false
   hasCJKLanguage = true                                    # default: false
   # Our LANG: 'en', 'en-ph', 'fil', 'fil-hang', 'fil-jamo', 'tl-tglg', 'zh-hant', 'zh-hans', 'ja', 'ko'
   disableLanguages = ['en', 'fil', 'fil-hang', 'fil-jamo', 'tl-tglg', 'zh-hant', 'zh-hans', 'ja', 'ko']
@@ -27,7 +26,6 @@
 
   disableKinds = ["robotsTXT"]
   enableMissingTranslationPlaceholders = true              # default: false
-  pluralizeListTitles = false                                # default: true
   #timeout = "30s"                                           # default: 30s
 
   #### Other settings ####

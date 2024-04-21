@@ -74,6 +74,11 @@ workspace = "off"
     target = "assets"
 
   [[mounts]]
+    source = "content/way"
+    target = "content"
+    #lang = "en"
+
+  [[mounts]]
     source = "content"
     target = "content"
 

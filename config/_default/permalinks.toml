@@ -1,2 +1,21 @@
 # See: https://gohugo.io/getting-started/configuration/#merge-configuration-from-themes
 _merge = "deep"
+
+[page]
+  "/" = "/:slug/"                 # use /:slug/ for fallback to /:title/ if not set
+  blog = "/:slug-:year:yearday/"
+  pages = "/:slug/"
+  posts = "/:slug-:year:yearday/"
+
+  c = "/:sections[1:]/:slug-:year:yearday/"
+  kb = "/:sections/:slug-:year:yearday/"
+
+[section]
+  #c = "/:sections[1:]/"
+  #kb = "/:sections/"
+
+[term] # This is actually a setting for taxonomies.
+  categories = "/cat/:slug/"
+  channels = "/channels/:slug/"
+  series = "/series/:slug/"
+  tags = "/tag/:slug/"

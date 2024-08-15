@@ -6,8 +6,8 @@ date = 2016-02-04T03:27:17+08:00                          # manually adjust to l
 lastmod = 2016-02-04T03:27:17+08:00                          # manually adjust to local timezone
 
 aliases = ["/p/name-messiah-yahushua.html"]
-slug = "The Name of our Messiah is Yahushua"
-translationKey = "The Name of our Messiah is Yahushua"
+slug = "the-name-of-our-messiah-is-yahushua"
+translationKey = "the-name-of-our-messiah-is-yahushua"
 relCanonical = "https://im.youronly.one/way/the-name-of-our-messiah-is-yahushua/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
@@ -51,7 +51,7 @@ icon = "infinity"
   <a href="https://4.bp.blogspot.com/--GxZA64O0cU/Xc-ZU881_iI/AAAAAAAAeiE/jTpamqrVP5UYL1UIlTMm8Ze_k3pcmXzWgCPcBGAYYCw/s1600/Yahushua-infographic-CC_BY-SA_4.0_International_by_1way.faith.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" border="0" src="https://4.bp.blogspot.com/--GxZA64O0cU/Xc-ZU881_iI/AAAAAAAAeiE/jTpamqrVP5UYL1UIlTMm8Ze_k3pcmXzWgCPcBGAYYCw/s1600/Yahushua-infographic-CC_BY-SA_4.0_International_by_1way.faith.jpg" data-original-width="1000" data-original-height="750" /></a>
 </div>
 
-<p>Here are resources showing that the Hebrew language way of pronunciation of our Messiah's name <bdi dir="rtl" lang="hbo">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (modern script: <bdi dir="rtl" lang="he">יהושוע</bdi>) is "yah-hu-shua" (transliterated as: Yahushua). Any true believer and researcher will read all of these with an open and inquiring mind. Then and only then such a believer should make a decision — after going through the materials. Never judge before you know what it is about lest you be judge by your own standards.</p>
+<p>Here are resources showing that the Hebrew language way of pronunciation of our Messiah's name <bdi dir="rtl" lang="hbo">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (modern script: <bdi dir="rtl" lang="he">יהושוע</bdi>) is <q>yah-hu-shua</q> (transliterated as: Yahushua). Any true believer and researcher will read all of these with an open and inquiring mind. Then and only then such a believer should make a decision — after going through the materials. Never judge before you know what it is about lest you be judge by your own standards.</p>
 
 <!--more-->
 

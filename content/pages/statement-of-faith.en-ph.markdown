@@ -6,8 +6,8 @@ date = 2011-01-27T03:27:17+08:00                          # manually adjust to l
 lastmod = 2011-01-27T03:27:17+08:00                          # manually adjust to local timezone
 
 aliases = ["/p/statement-of-faith.html"]
-slug = "Statement of Faith"
-translationKey = "Statement of Faith"
+slug = "statement-of-faith"
+translationKey = "statement-of-faith"
 relCanonical = "https://im.youronly.one/way/statement-of-faith/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
@@ -61,12 +61,12 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <h2>Concise</h2>
 <ol class="custom_liststyle rounded-list">
-  <li>Abba's (The Father in Heaven) Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH"); and the Messiah's Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: <a title="Messiah's Name: Yahushua or Yahusha?" href="https://only.1way.faith/p/name-messiah-yahushua.html">Messiah's Name: Yahushua or Yahusha?</a>).
-    <p>I am <b><i>not</i></b> a "Sacred Namer".</p>
+  <li>Abba's (The Father in Heaven) Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (pronounced as <q>yah-hu-ah</q>; transliterated as <q>YAHUAH</q>, <q>YaHuWaH</q>, or <q>YHWH</q>); and the Messiah's Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: <a title="Messiah's Name: Yahushua or Yahusha?" href="https://only.1way.faith/p/name-messiah-yahushua.html">Messiah's Name: Yahushua or Yahusha?</a>).
+    <p>I am <b><i>not</i></b> a <q>Sacred Namer</q>.</p>
   </li>
 
-  <li>I believe we should obey the Torah of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) but reject the "traditions of men" or any [religious] traditions.
-    <p>I am <b><i>not</i></b> a member of any sect of "Judaism".</p>
+  <li>I believe we should obey the Torah of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) but reject the traditions of men or any [religious] traditions.
+    <p>I am <b><i>not</i></b> a member of any sect of Judaism.</p>
   </li>
   <li>I believe we should observe and practice the 7 Appointed Times (commonly known as the 7 Feasts) of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
     <ul class="custom_liststyle checkmark list-green">
@@ -75,7 +75,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
       <li>We should not observe anniversaries which does not glorify YAH.</li>
     </ul>
   </li>
-  <li>I believe that we should observe the true 7<sup>th</sup> Day Sabbath as revealed and instructed in the Scripture, based on the luni-solar calendar (herein referred to as the "Scriptural Calendar"; it is also important to note that it is <b>not</b> and is <i>different</i> from the "lunar calendar").</li>
+  <li>I believe that we should observe the true 7<sup>th</sup> Day Sabbath as revealed and instructed in the Scripture, based on the luni-solar calendar (herein referred to as the Scriptural Calendar; it is also important to note that it is <b>not</b> and is <i>different</i> from the lunar calendar).</li>
 
   <li>I believe in Salvation as taught by Kepha (Peter) in Acts 2:38 and by Sha'ul (Paul) in 1 Corinthians 15:1-4. It is only by believing, baptism in water in the name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua), and receiving the Set-apart Ruah (Holy Spirit), that we are saved.
     <p>I fully reject the "once saved, always saved" doctrine.</p>

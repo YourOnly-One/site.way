@@ -65,7 +65,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
     <p>I am <b><i>not</i></b> a <q>Sacred Namer</q>.</p>
   </li>
 
-  <li>I believe we should obey the Torah of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) but reject the traditions of men or any [religious] traditions.
+  <li>I believe we should obey the Torah of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) but reject the additions/traditions of men.
     <p>I am <b><i>not</i></b> a member of any sect of Judaism.</p>
   </li>
   <li>I believe we should observe and practice the 7 Appointed Times (commonly known as the 7 Feasts) of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
@@ -75,37 +75,37 @@ because it is not the same as the "Christians" of the Apostles or more correctly
       <li>We should not observe anniversaries which does not glorify YAH.</li>
     </ul>
   </li>
-  <li>I believe that we should observe the true 7<sup>th</sup> Day Sabbath as revealed and instructed in the Scripture, based on the luni-solar calendar (herein referred to as the Scriptural Calendar; it is also important to note that it is <b>not</b> and is <i>different</i> from the lunar calendar).</li>
+  <li>I believe that we should observe the true 7<sup>th</sup> Day Sabbath as revealed and instructed in the Scripture, based on the (DSS) Zadok calendar (herein referred to as the Scriptural Calendar).</li>
 
   <li>I believe in Salvation as taught by Kepha (Peter) in Acts 2:38 and by Sha'ul (Paul) in 1 Corinthians 15:1-4. It is only by believing, baptism in water in the name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua), and receiving the Set-apart Ruah (Holy Spirit), that we are saved.
-    <p>I fully reject the "once saved, always saved" doctrine.</p>
+    <p>I fully reject the “once saved, always saved” doctrine.</p>
   </li>
 
-  <li>I believe in <b>Remnant Theology</b> that the "gentiles" were grafted into the Olive Tree of Israel and has become part of and citizen of the Israel of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
-    <p>I fully reject the "Replacement Theology" popular within Denominational-Christianity (a.k.a. "Protestant" (protesting against the Vatican yet retaining many of their traditions and dogma), "Born-Again", "Pentecostal", "Christendom", "Catholic" (universal faith), and so on).</p>
+  <li>I believe in <b>Remnant Theology</b> that the “gentiles” were grafted into the Olive Tree of Israel and has become part of and citizen of the Israel of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
+    <p>I fully reject the “Replacement Theology” popular within Denominational-Christianity (a.k.a. “Protestant” (protesting against the Vatican yet retaining many of their traditions and dogma), “Born-again”, “Pentecostal”, “Christendom”, “Catholic” (universal faith), and so on).</p>
   </li>
 
   <li>I am a <b>Hebrew-Israelite <abbr class="popper animate" data-popper="branch; watcher">Natsari</abbr></b> (plural: <b>Natsarim</b>), a HaDerech ([Follower of] The Way), as spoken of by the Prophets and in the <abbr class="popper animate" data-popper="Apostles">Shelihim</abbr> Writings (a.k.a. New Testament or the Renewed Covenant).</li>
 
-  <li>I do not identify with "Denominational-Christianity". It was:
+  <li>I do not identify with “Denominational-Christianity”. It was:
     <ul class="custom_liststyle omark-black list-red">
       <li>Founded by those who disagreed with Peter and/or Paul, and/or the Jerusalem Council.</li>
-      <li>Formalised by Emperor Constantine and the bishops, among others, and solidified during the infamous Council of Nicaea.</li>
+      <li>Formalised by Emperor Constantine and the bishops, among others, and solidified during the <em>in</em>famous Council of Nicaea.</li>
     </ul>
   </li>
 
   <li>I believe the world was divided by Noah between his three sons--Yapheth (Japheth), Shem, and Ham.
     <ul class="custom_liststyle checkmark-heavy list-green">
-      <li>Yapheth (Japheth) ("fair") acquired the modern regions of "Central America", "North America", "Europe", "Russia" ("Siberia" not included), and the Western part of "Turkey".</li>
-      <li>Shem ("dusky"/"brown") inherited what we call today "Asia", "Siberia", and the Eastern part of "Turkey" but not "Indonesia".</li>
-      <li>Ham ("black") was given the lands we call today as "Africa", "South America", "Australia", and "Indonesia".</li>
+      <li>Yapheth (Japheth) (“fair”) acquired the modern regions of Central America, North America, Europe, Russia (Asian part not included), and the Western part of Turkey.</li>
+      <li>Shem (“dusky”/“brown”) inherited what we call today as Asia, the Asian part of Russia, and the Eastern part of Turkey, but not Indonesia.</li>
+      <li>Ham ("black") was given the lands we call today as Africa, South America, Australia, and Indonesia.</li>
     </ul>
   </li>
-  <li>I believe the ancient Israelites were brown people--not black nor white--the first color of the human skin which Shem's descendants mostly retained to this day (due to the climate in their inherited lands). However, we must not forget Shemoth (Exodus) 12:38.</li>
+  <li>I believe the ancient Israelites were brown people--not black nor white--the first coloru of the human skin which Shem's descendants mostly retained to this day (due to the climate in their inherited lands). However, we must not forget Shemoth (Exodus) 12:38.</li>
 
-  <li>I believe that the Filipino people are Hebrews from the line of Yoktan (Joktan)--in particular his youngest sons Sheba, Ophir, Havilah, and [possibly] Yobab--second son of Eber (from whence "Hebrew" came). Yoktan's lineage are also called the "Eastern Hebrews".</li>
-  <li>I believe that the majority of the Filipino people are also descendants of the ancient Northern Kingdom of Israel (the so-called "10 Lost Tribes of Israel") who mostly migrated in ancient Philippines, then called "Ophir", and lived amongst their cousins--the Eastern Hebrews. (Some stayed in the area we call today as "Kurdistan".)</li>
-  <li>I believe that the Tribes of the ancient Southern Kingdom of Israel, also later called as Judea, migrated to Central--and some parts of Southern--Africa in what was then the coast-to-coast Kingdom of Ethiopia. These tribes were specifically targeted in the slave trade and Ham's descendants were largely ignored.</li>
+  <li>I believe that the Filipino people are Hebrews from the line of Yoktan (Joktan)--in particular his youngest sons Sheba, Ophir, Havilah, and [possibly] Yobab--second son of Eber (from whence “Hebrew” came). Yoktan's lineage are also called the “Eastern Hebrews”.</li>
+  <li>I believe that the majority of the Filipino people are also descendants of the ancient Northern Kingdom of Israel (the so-called “Ten Lost Tribes of Israel”) who mostly migrated in ancient Philippines, then called “Ophir”, and lived amongst their cousins--the Eastern Hebrews. (Some stayed in the area we call today as “Kurdistan”.)</li>
+  <li>I believe that the tribes of the ancient Southern Kingdom of Israel, also later called as Judea, migrated to Central--and some parts of Southern--Africa in what was then the coast-to-coast Kingdom of Ethiopia. These tribes were specifically targeted in the slave trade and Ham's descendants were largely ignored.</li>
 </ol>
 
 <h2>Detailed</h2>
@@ -123,7 +123,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>Aluahim is ONE. There is NO other besides Him.</h3>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"Hear, O Yisra'el: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is our Elohim; <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is one."</p>
+    <p>“Hear, O Yisra'el: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is our Elohim; <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> is one.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -164,7 +164,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>17</sup>"Do not think that I came to abolish the Torah or the Prophets; I did not come to abolish but to fulfill. <sup>18</sup>For truly I say to you, until heaven and earth pass away, not one yod or one stroke shall pass from the Torah until all is accomplished. <sup>19</sup>Whoever then annuls one of the least of these commands, and teaches others the same, shall be called least in the kingdom of the heavens; but whoever keeps and teaches, he shall be called great in the kingdom of the heavens.</p>
+    <p><sup>17</sup>Do not think that I came to abolish the Torah or the Prophets; I did not come to abolish but to fulfill. <sup>18</sup>For truly I say to you, until heaven and earth pass away, not one yod or one stroke shall pass from the Torah until all is accomplished. <sup>19</sup>Whoever then annuls one of the least of these commands, and teaches others the same, shall be called least in the kingdom of the heavens; but whoever keeps and teaches, he shall be called great in the kingdom of the heavens.</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -174,8 +174,8 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>20</sup>They, when they heard it, glorified Elohim. They said to him, "You see, brother, how many tens of thousands there are among the Yahudim of those who have believed, and they are all zealous for the Torah. <sup>21</sup>They have been informed about you, that you teach all the Yahudim who are among the nations to forsake Mosheh, telling them not to circumcise their children neither to walk after the customs. <sup>22</sup>What then? They will certainly hear that you have come.</p>
-    <p><sup>23</sup>"Therefore do what we tell you. We have four men who have taken a vow. <sup>24</sup>Take them, and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk guarding the Torah. <sup>25</sup>But concerning the nations who believe, we have written our decision; they should guard themselves from <i>things</i> slaughtered to idols, from blood, from strangled things, and from whoring.</p>
+    <p><sup>20</sup>They, when they heard it, glorified Elohim. They said to him, “You see, brother, how many tens of thousands there are among the Yahudim of those who have believed, and they are all zealous for the Torah. <sup>21</sup>They have been informed about you, that you teach all the Yahudim who are among the nations to forsake Mosheh, telling them not to circumcise their children neither to walk after the customs. <sup>22</sup>What then? They will certainly hear that you have come.</p>
+    <p><sup>23</sup>“Therefore do what we tell you. We have four men who have taken a vow. <sup>24</sup>Take them, and purify yourself with them, and pay their expenses for them, that they may shave their heads. Then all will know that there is no truth in the things that they have been informed about you, but that you yourself also walk guarding the Torah. <sup>25</sup>But concerning the nations who believe, we have written our decision; they should guard themselves from <i>things</i> slaughtered to idols, from blood, from strangled things, and from whoring.”</p>
     <p><sup>26</sup>Then Sha'ul took the men, and the next day, purified himself and went with them into the Temple, declaring the fulfillment of the days of purificiation, until the offering was offered for every one of them.</p>
   </blockquote>
 
@@ -196,7 +196,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>What shall we say then? Is the law sin? May it never be! However, I would not have known sin, except through the law. For I would not have known coveting, unless the law had said, "You shall not covet."</p>
+    <p>What shall we say then? Is the law sin? May it never be! However, I would not have known sin, except through the law. For I would not have known coveting, unless the law had said, “You shall not covet.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -257,7 +257,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>13</sup>"If you turn away your foot from the Sabbath, from doing your pleasure on My set-apart day; and call the Sabbath a delight, <i>and</i> the set-apart of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking <i>your own</i> words: <sup>14</sup>then you shall delight yourself in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Ya'aqov your father:" for the mouth of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> has spoken it.</p>
+    <p><sup>13</sup>“If you turn away your foot from the Sabbath, from doing your pleasure on My set-apart day; and call the Sabbath a delight, <i>and</i> the set-apart of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking <i>your own</i> words: <sup>14</sup>then you shall delight yourself in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Ya'aqov your father:” for the mouth of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> has spoken it.</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -267,7 +267,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"For the Son of Man is Master of the Sabbath."</p>
+    <p>“For the Son of Man is Master of the Sabbath.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -288,7 +288,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3><bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהוה</bdi>) (YAHUAH/YaHuWaH) never changes and is eternal.</h3>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"For I, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, do not change; therefore you, sons of Ya'aqov, are not consumed."</p>
+    <p>“For I, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, do not change; therefore you, sons of Ya'aqov, are not consumed.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -308,7 +308,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"For truly I say to you, until heaven and earth pass away, not one yod or one stroke shall pass from the Torah until all is accomplished."</p>
+    <p>“For truly I say to you, until heaven and earth pass away, not one yod or one stroke shall pass from the Torah until all is accomplished.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -318,7 +318,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"Heaven and earth will pass away, but My words will not pass away."</p>
+    <p>“Heaven and earth will pass away, but My words will not pass away.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -329,7 +329,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>The Great Commission</h3>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>[<sup>19</sup>"Having gone, therefore, make <abbr class="popper animate" data-popper="disciples">talmidim</abbr> of all the nations, immersing them in the Name of the Father and the Son and the Set-apart Ruah, <sup>20</sup>teaching them to guard all that I commanded you; and behold, I am with you always, even to the completion of the age."]</p>
+    <p>[<sup>19</sup>“Having gone, therefore, make <abbr class="popper animate" data-popper="disciples">talmidim</abbr> of all the nations, immersing them in the Name of the Father and the Son and the Set-apart Ruah, <sup>20</sup>teaching them to guard all that I commanded you; and behold, I am with you always, even to the completion of the age.”]</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -382,7 +382,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>9</sup>that if you will confess with your mouth that <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master, and believe in your heart that Elohim raised Him from the dead, you will be saved. <sup>10</sup>For <i>in</i> the heart man believes unto righteousness; and <i>in</i> the mouth is confession unto salvation. <sup>11</sup>For the Scripture says, "Whoever believes in Him will not be disappointed."</p>
+    <p><sup>9</sup>that if you will confess with your mouth that <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master, and believe in your heart that Elohim raised Him from the dead, you will be saved. <sup>10</sup>For <i>in</i> the heart man believes unto righteousness; and <i>in</i> the mouth is confession unto salvation. <sup>11</sup>For the Scripture says, “Whoever believes in Him will not be disappointed.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -403,8 +403,8 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>The Renewed/New Covenant in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) the Messiah</h3>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>31</sup>"Behold, the days come," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, "that I will cut a new covenant with the house of Yisra'el, and with the house of Yahudah: <sup>32</sup>not according to the covenant that I cut with their fathers in the day that I took them by the hand to bring them out of the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr>; which covenant of Mine they broke, although I was an owner to them," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>.</p>
-    <p><sup>33</sup>"But this is the covenant that I will cut with the house of Yisra'el after those days," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: I will put My Torah in their inward parts, and I will write it in their heart. I will be their Elohim, and they shall be My people. <sup>34</sup>They will no longer each teach his neighbor, and every man teach his brother, saying, 'Know <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>;' for they will all know Me, from their least to their greatest," says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: "for I will forgive their iniquity, and I will remember their sin no more."</p>
+    <p><sup>31</sup>“Behold, the days come”, says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>, “that I will cut a new covenant with the house of Yisra'el, and with the house of Yahudah: <sup>32</sup>not according to the covenant that I cut with their fathers in the day that I took them by the hand to bring them out of the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr>; which covenant of Mine they broke, although I was an owner to them”, says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>.</p>
+    <p><sup>33</sup>“But this is the covenant that I will cut with the house of Yisra'el after those days”, says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: “I will put My Torah in their inward parts, and I will write it in their heart. I will be their Elohim, and they shall be My people. <sup>34</sup>They will no longer each teach his neighbor, and every man teach his brother, saying, ‘Know <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>;’ for they will all know Me, from their least to their greatest”, says <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>: “for I will forgive their iniquity, and I will remember their sin no more.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -414,7 +414,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"'I will not hide My face from them anymore; for I have poured out My Ruah on the house of Yisra'el,' says Adonai <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>."</p>
+    <p>“‘I will not hide My face from them anymore; for I have poured out My Ruah on the house of Yisra'el’, says Adonai <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi>.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -425,7 +425,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>Gifts of the Set-apart Ruah</h3>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"If you then, being wicked, know how to give good gifts to your children, how much more will your heavenly Father give the Set-apart Ruah to those who ask him?"</p>
+    <p>“If you then, being wicked, know how to give good gifts to your children, how much more will your heavenly Father give the Set-apart Ruah to those who ask him?”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -435,7 +435,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>4</sup>Being assembled together with them, He commanded them, "Do not depart from Yerushalayim, but wait for the promise of the Father, which you heard from Me. <sup>5</sup>For Yahuhanan indeed immersed in water, but you will be immersed in the Set-apart Ruah not many days from now."</p>
+    <p><sup>4</sup>Being assembled together with them, He commanded them, “Do not depart from Yerushalayim, but wait for the promise of the Father, which you heard from Me. <sup>5</sup>For Yahuhanan indeed immersed in water, but you will be immersed in the Set-apart Ruah not many days from now.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -455,7 +455,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"We are witnesses of these things; and so also is the Set-apart Ruah, whom Elohim has given to those who obey Him."</p>
+    <p>“We are witnesses of these things; and so also is the Set-apart Ruah, whom Elohim has given to those who obey Him.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -465,7 +465,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>1</sup>Now concerning spiritual things, brothers, I do not want you to be ignorant. <sup>2</sup>You know that when you were heathen, you were led away to those mute idols, however you might be led. <sup>3</sup>Therefore I make known to you that no man speaking by the Ruah of Elohim says, "<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is accursed." No one can say, "<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master," but by the Set-apart Ruah. <sup>4</sup>Now there are various kinds of gifts, but the same Ruah.</p>
+    <p><sup>1</sup>Now concerning spiritual things, brothers, I do not want you to be ignorant. <sup>2</sup>You know that when you were heathen, you were led away to those mute idols, however you might be led. <sup>3</sup>Therefore I make known to you that no man speaking by the Ruah of Elohim says, “<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is accursed”. No one can say, “<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> is Master”, but by the Set-apart Ruah. <sup>4</sup>Now there are various kinds of gifts, but the same Ruah.</p>
     <p><sup>5</sup>There are various kinds of service, and the same Master. <sup>6</sup>There are various kinds of workings, but the same Elohim, who works all things in all. <sup>7</sup>But to each one is given the manifestation of the Ruah for the profit of all. <sup>8</sup>For to one is given through the Ruah the word of wisdom, and to another the word of knowledge, according to the same Ruah; <sup>9</sup>to another faith, by the same Ruah; and to another gifts of healings, by the one Ruah; <sup>10</sup>and to another workings of miracles; and to another prophecy; and to another discerning of spirits; to another different kinds of languages; and to another the interpretation of languages. <sup>11</sup>But the one and the same Ruah produces all of these, distributing to each one separately as He desires.</p>
     <p><sup>12</sup>For as the body is one, and has many members, and all the members of the body, being many, are one body; so also is Messiah. <sup>13</sup>For in one Ruah we were all immersed into one body, whether Yahudim or Greeks, whether bondservants or free; and were all given to drink of one Ruah.</p>
   </blockquote>
@@ -488,8 +488,8 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h3>Faith without works is dead</h3>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>14</sup>What good is it, my brothers, if a man says he has faith, but has no works? Can that faith save him? <sup>15</sup>If a brother or sister is naked and lacking of daily food, <sup>16</sup>and one of you tells them, "Go in peace, be warmed and filled"; and yet you did not give them the things the body needs, what good is it? <sup>17</sup>Even so faith, if it has no works, is dead in itself. <sup>18</sup>Yes, a man will say, "You have faith, and I have works." Show me your faith without the works, and I will show you the faith from my works.</p>
-    <p><sup>19</sup>You believe there is one Elohim. You do well. The demons also believe, and shudder. <sup>20</sup>But do you want to know, vain man, that faith apart from works is dead? <sup>21</sup>Was Avraham our father not declared right from works, in that he offered up Yitshaq his son on the altar? <sup>22</sup>You see that faith worked with his works, and from works faith was perfected; <sup>23</sup>and the Scripture was fulfilled which says, "Avraham believed Elohim, and it was accounted to him as righteousness;" and he was called the friend of Elohim. <sup>24</sup>You see then that from works a man is declared right, and not only from faith. <sup>25</sup>In the same way, was Rahav the whore not also declared right from works, in that she received the messengers, and sent them out another way? <sup>26</sup>For as the body apart from the spirit is dead, even so faith apart from works is dead.</p>
+    <p><sup>14</sup>What good is it, my brothers, if a man says he has faith, but has no works? Can that faith save him? <sup>15</sup>If a brother or sister is naked and lacking of daily food, <sup>16</sup>and one of you tells them, “Go in peace, be warmed and filled”; and yet you did not give them the things the body needs, what good is it? <sup>17</sup>Even so faith, if it has no works, is dead in itself. <sup>18</sup>Yes, a man will say, “You have faith, and I have works.” Show me your faith without the works, and I will show you the faith from my works.</p>
+    <p><sup>19</sup>You believe there is one Elohim. You do well. The demons also believe, and shudder. <sup>20</sup>But do you want to know, vain man, that faith apart from works is dead? <sup>21</sup>Was Avraham our father not declared right from works, in that he offered up Yitshaq his son on the altar? <sup>22</sup>You see that faith worked with his works, and from works faith was perfected; <sup>23</sup>and the Scripture was fulfilled which says, “Avraham believed Elohim, and it was accounted to him as righteousness”; and he was called the friend of Elohim. <sup>24</sup>You see then that from works a man is declared right, and not only from faith. <sup>25</sup>In the same way, was Rahav the whore not also declared right from works, in that she received the messengers, and sent them out another way? <sup>26</sup>For as the body apart from the spirit is dead, even so faith apart from works is dead.</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -521,7 +521,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"'and you shall be to Me a kingdom of priests and a set-apart nation.' These are the words that you shall speak to the children of Yisra'el."</p>
+    <p>“‘and you shall be to Me a kingdom of priests and a set-apart nation.’ These are the words that you shall speak to the children of Yisra'el.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -531,7 +531,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p>"I also say to you that you are <abbr class="popper animate" data-popper="small stone">petros</abbr>, and upon this <abbr class="popper animate" data-popper="great rock">Petra</abbr> I will build My assembly; and the gates of Sheol will not overpower it.</p>
+    <p>I also say to you that you are <abbr class="popper animate" data-popper="small stone">petros</abbr>, and upon this <abbr class="popper animate" data-popper="great rock">Petra</abbr> I will build My assembly; and the gates of Sheol will not overpower it.</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -553,7 +553,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h4>Full of love and care for everyone by bringing the Gospel to the world</h4>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>34</sup>"A renewed command I give to you, that you love one another. Just as I have loved you, you also love one another. <sup>35</sup>By this everyone will know that you are My <abbr class="popper animate" data-popper="disciples">talmidim</abbr>, if you have love for one another."</p>
+    <p><sup>34</sup>“A renewed command I give to you, that you love one another. Just as I have loved you, you also love one another. <sup>35</sup>By this everyone will know that you are My <abbr class="popper animate" data-popper="disciples">talmidim</abbr>, if you have love for one another.”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
@@ -617,7 +617,7 @@ because it is not the same as the "Christians" of the Apostles or more correctly
 <h4>Set-apart</h4>
 <figure class="quote_box qbs_verse01 qbc_blue-midnight">
   <blockquote class="qbm_doublequotationmark">
-    <p><sup>44</sup> "'For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> your Elohim. Set yourselves apart therefore, and be set-apart, for I am set-apart. And you shall not make yourselves unclean with any of the swarming things that swarm on the earth. <sup>45</sup> For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> who brought you up from the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr> to be your Elohim; thus you shall be set-apart, for I am set-apart.'"</p>
+    <p><sup>44</sup> “‘For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> your Elohim. Set yourselves apart therefore, and be set-apart, for I am set-apart. And you shall not make yourselves unclean with any of the swarming things that swarm on the earth. <sup>45</sup> For I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> who brought you up from the land of <abbr class="popper animate" data-popper="Egypt">Mitsrayim</abbr> to be your Elohim; thus you shall be set-apart, for I am set-apart.’”</p>
   </blockquote>
 
   <figcaption class="attribution_name txt_right">
